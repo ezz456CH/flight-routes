@@ -1,0 +1,338 @@
+[
+    {
+        "callsign": "HGB283",
+        "flight_no": "HB283",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-27T11:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HGB284",
+        "flight_no": "HB284",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-27T11:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HGB297",
+        "flight_no": "HB297",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-28T08:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HGB298",
+        "flight_no": "HB298",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-28T08:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE700",
+        "flight_no": "UO700",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-26T07:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE701",
+        "flight_no": "UO701",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-26T07:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE702",
+        "flight_no": "UO702",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-26T11:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE703",
+        "flight_no": "UO703",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-26T11:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE704",
+        "flight_no": "UO704",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-27T07:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE705",
+        "flight_no": "UO705",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-27T07:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE724",
+        "flight_no": "UO724",
+        "route_iata_full": "HKG-HKT",
+        "last_updated": "2024-11-27T07:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE725",
+        "flight_no": "UO725",
+        "route_iata_full": "HKT-HKG",
+        "last_updated": "2024-11-27T07:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN660",
+        "flight_no": "VN660",
+        "route_iata_full": "SIN-HAN",
+        "last_updated": "2024-11-26T07:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN661",
+        "flight_no": "VN661",
+        "route_iata_full": "HAN-SIN",
+        "last_updated": "2024-11-26T07:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN836",
+        "flight_no": "VN836",
+        "route_iata_full": "SAI-HAN",
+        "last_updated": "2024-11-26T11:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN837",
+        "flight_no": "VN837",
+        "route_iata_full": "HAN-SAI",
+        "last_updated": "2024-11-26T11:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN842",
+        "flight_no": "VN842",
+        "route_iata_full": "SAI-HAN",
+        "last_updated": "2024-11-26T13:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN843",
+        "flight_no": "VN843",
+        "route_iata_full": "HAN-SAI",
+        "last_updated": "2024-11-26T13:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN920",
+        "flight_no": "VN920",
+        "route_iata_full": "SGN-PNH-VTE-HAN",
+        "last_updated": "2024-11-27T11:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "PNH"
+            },
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "VTE"
+            },
+            {
+                "dep_iata": "VTE",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN921",
+        "flight_no": "VN921",
+        "route_iata_full": "HAN-VTE-PNH-SGN",
+        "last_updated": "2024-11-27T11:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "VTE"
+            },
+            {
+                "dep_iata": "VTE",
+                "arr_iata": "PNH"
+            },
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN922",
+        "flight_no": "VN922",
+        "route_iata_full": "PNH-HAN",
+        "last_updated": "2024-11-27T11:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN923",
+        "flight_no": "VN923",
+        "route_iata_full": "HAN-PNH",
+        "last_updated": "2024-11-27T11:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN930",
+        "flight_no": "VN930",
+        "route_iata_full": "SAI-LPQ-HAN",
+        "last_updated": "2024-11-27T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "LPQ"
+            },
+            {
+                "dep_iata": "LPQ",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN931",
+        "flight_no": "VN931",
+        "route_iata_full": "HAN-LPQ-SAI",
+        "last_updated": "2024-11-27T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "LPQ"
+            },
+            {
+                "dep_iata": "LPQ",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN1236",
+        "flight_no": "VN1236",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-11-28T07:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN1237",
+        "flight_no": "VN1237",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-11-28T07:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "callsign": "NOK322",
+        "flight_no": "DD322",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2024-11-25T03:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK323",
+        "flight_no": "DD323",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2024-11-25T03:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK328",
+        "flight_no": "DD328",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2024-11-25T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK329",
+        "flight_no": "DD329",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2024-11-25T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK360",
+        "flight_no": "DD360",
+        "route_iata_full": "DMK-SNO",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SNO"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK361",
+        "flight_no": "DD361",
+        "route_iata_full": "SNO-DMK",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "SNO",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK364",
+        "flight_no": "DD364",
+        "route_iata_full": "DMK-SNO",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SNO"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK365",
+        "flight_no": "DD365",
+        "route_iata_full": "SNO-DMK",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "SNO",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK368",
+        "flight_no": "DD368",
+        "route_iata_full": "DMK-SNO",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SNO"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK369",
+        "flight_no": "DD369",
+        "route_iata_full": "SNO-DMK",
+        "last_updated": "2024-11-25T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "SNO",
+                "arr_iata": "DMK"
+            }
+        ]
+    }
+]

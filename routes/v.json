@@ -1,0 +1,410 @@
+[
+    {
+        "callsign": "VJC63",
+        "flight_no": "VJ063",
+        "route_iata_full": "PQC-NQZ",
+        "last_updated": "2024-11-28T08:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "NQZ"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC64",
+        "flight_no": "VJ064",
+        "route_iata_full": "NQZ-PQC",
+        "last_updated": "2024-11-28T08:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "NQZ",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC298",
+        "flight_no": "VJ298",
+        "route_iata_full": "SGN-DIN",
+        "last_updated": "2024-11-26T08:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "DIN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC299",
+        "flight_no": "VJ299",
+        "route_iata_full": "DIN-SGN",
+        "last_updated": "2024-11-26T08:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "DIN",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC453",
+        "flight_no": "VJ453",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-11-26T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC454",
+        "flight_no": "VJ454",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-11-26T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC455",
+        "flight_no": "VJ455",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-11-26T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC456",
+        "flight_no": "VJ456",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-11-26T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC767",
+        "flight_no": "VJ767",
+        "route_iata_full": "HPH-PQC",
+        "last_updated": "2024-11-27T10:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "HPH",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC768",
+        "flight_no": "VJ768",
+        "route_iata_full": "PQC-HPH",
+        "last_updated": "2024-11-27T10:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HPH"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC905",
+        "flight_no": "VJ905",
+        "route_iata_full": "HAN-KUL",
+        "last_updated": "2024-11-29T07:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC906",
+        "flight_no": "VJ906",
+        "route_iata_full": "KUL-HAN",
+        "last_updated": "2024-11-29T07:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC913",
+        "flight_no": "VJ913",
+        "route_iata_full": "HAN-SAI",
+        "last_updated": "2024-11-27T12:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC914",
+        "flight_no": "VJ914",
+        "route_iata_full": "SAI-HAN",
+        "last_updated": "2024-11-27T12:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC915",
+        "flight_no": "VJ915",
+        "route_iata_full": "HAN-SIN",
+        "last_updated": "2024-11-27T11:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC916 ",
+        "flight_no": "VJ916",
+        "route_iata_full": "SIN-HAN",
+        "last_updated": "2024-11-27T11:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC928",
+        "flight_no": "VJ928",
+        "route_iata_full": "CGK-HAN",
+        "last_updated": "2024-11-27T10:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGK",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC929",
+        "flight_no": "VJ929",
+        "route_iata_full": "HAN-CGK",
+        "last_updated": "2024-11-27T10:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "CGK"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC974",
+        "flight_no": "VJ974",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-11-27T11:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC975",
+        "flight_no": "VJ975",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2024-11-27T11:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC978",
+        "flight_no": "VJ978",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-11-27T11:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC979",
+        "flight_no": "VJ979",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2024-11-27T11:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC985",
+        "flight_no": "VJ985",
+        "route_iata_full": "HKG-PQC",
+        "last_updated": "2024-11-26T10:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC986",
+        "flight_no": "VJ986",
+        "route_iata_full": "PQC-HKG",
+        "last_updated": "2024-11-26T10:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1453",
+        "flight_no": "VJ1453",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-11-26T17:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1454",
+        "flight_no": "VJ1454",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-11-26T17:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1831",
+        "flight_no": "VJ1831",
+        "route_iata_full": "SGN-VTE",
+        "last_updated": "2024-11-27T12:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "VTE"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1832",
+        "flight_no": "VJ1832",
+        "route_iata_full": "VTE-SGN",
+        "last_updated": "2024-11-27T12:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "VTE",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC3796",
+        "flight_no": "VJ3796",
+        "route_iata_full": "SGN-LJG",
+        "last_updated": "2024-11-27T12:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "LJG"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC3797",
+        "flight_no": "VJ3797",
+        "route_iata_full": "LJG-SGN",
+        "last_updated": "2024-11-27T12:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "LJG",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC3930",
+        "flight_no": "VJ3930",
+        "route_iata_full": "SGN-TFU",
+        "last_updated": "2024-11-26T18:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "TFU"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC3931",
+        "flight_no": "VJ3931",
+        "route_iata_full": "TFU-SGN",
+        "last_updated": "2024-11-26T18:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "TFU",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VSV5367",
+        "flight_no": "DV5367",
+        "route_iata_full": "NQZ-KOS",
+        "last_updated": "2024-11-27T07:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "NQZ",
+                "arr_iata": "KOS"
+            }
+        ]
+    },
+    {
+        "callsign": "VSV5368",
+        "flight_no": "DV5368",
+        "route_iata_full": "KOS-NQZ",
+        "last_updated": "2024-11-27T07:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "KOS",
+                "arr_iata": "NQZ"
+            }
+        ]
+    }
+]

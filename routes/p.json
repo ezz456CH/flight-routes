@@ -1,0 +1,146 @@
+[
+    {
+        "callsign": "PAL658",
+        "flight_no": "PR658",
+        "route_iata_full": "MNL-DXB",
+        "last_updated": "2024-11-29T07:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL659",
+        "flight_no": "PR659",
+        "route_iata_full": "DXB-MNL",
+        "last_updated": "2024-11-29T07:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL684",
+        "flight_no": "PR684",
+        "route_iata_full": "MNL-DOH",
+        "last_updated": "2024-11-28T08:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "DOH"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL685",
+        "flight_no": "PR685",
+        "route_iata_full": "DOH-MNL",
+        "last_updated": "2024-11-28T08:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "DOH",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL730",
+        "flight_no": "PR730",
+        "route_iata_full": "MNL-BKK",
+        "last_updated": "2024-11-27T07:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL731",
+        "flight_no": "PR731",
+        "route_iata_full": "BKK-MNL",
+        "last_updated": "2024-11-27T07:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL732",
+        "flight_no": "PR732",
+        "route_iata_full": "MNL-BKK",
+        "last_updated": "2024-11-25T17:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL733",
+        "flight_no": "PR733",
+        "route_iata_full": "BKK-MNL",
+        "last_updated": "2024-11-25T17:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL736",
+        "flight_no": "PR736",
+        "route_iata_full": "MNL-BKK",
+        "last_updated": "2024-11-27T10:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL737",
+        "flight_no": "PR737",
+        "route_iata_full": "BKK-MNL",
+        "last_updated": "2024-11-27T10:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "PIC6400",
+        "flight_no": "BL6400",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-11-26T06:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "PIC6401",
+        "flight_no": "BL6401",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-11-26T06:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    }
+]

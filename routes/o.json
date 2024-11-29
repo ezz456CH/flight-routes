@@ -1,0 +1,26 @@
+[
+    {
+        "callsign": "OMA843",
+        "flight_no": "WY843",
+        "route_iata_full": "MCT-MNL",
+        "last_updated": "2024-11-26T11:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "MCT",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "OMA844",
+        "flight_no": "WY844",
+        "route_iata_full": "MNL-MCT",
+        "last_updated": "2024-11-26T11:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "MCT"
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "callsign": "RMY8801",
+        "flight_no": "TH8801",
+        "route_iata_full": "KUL-NNG",
+        "last_updated": "2024-11-26T07:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "NNG"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY8802",
+        "flight_no": "TH8802",
+        "route_iata_full": "NNG-KUL",
+        "last_updated": "2024-11-26T07:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "NNG",
+                "arr_iata": "KUL"
+            }
+        ]
+    }
+]

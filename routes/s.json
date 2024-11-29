@@ -1,0 +1,166 @@
+[
+    {
+        "callsign": "SIA193",
+        "flight_no": "SQ193",
+        "route_iata_full": "HAN-SIN",
+        "last_updated": "2024-11-27T10:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA194",
+        "flight_no": "SQ194",
+        "route_iata_full": "SIN-HAN",
+        "last_updated": "2024-11-27T10:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7443",
+        "flight_no": "SQ7443",
+        "route_iata_full": "CVG-HNL-SYD-MEL-SIN",
+        "last_updated": "2024-11-29T08:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "CVG",
+                "arr_iata": "HNL"
+            },
+            {
+                "dep_iata": "HNL",
+                "arr_iata": "SYD"
+            },
+            {
+                "dep_iata": "SYD",
+                "arr_iata": "MEL"
+            },
+            {
+                "dep_iata": "MEL",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7444",
+        "flight_no": "SQ7444",
+        "route_iata_full": "SIN-BKK-ICN-CVG",
+        "last_updated": "2024-11-29T08:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            },
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CVG"
+            }
+        ]
+    },
+    {
+        "callsign": "SJX741",
+        "flight_no": "JX741",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-26T07:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "SJX742",
+        "flight_no": "JX742",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-26T07:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "SJX745",
+        "flight_no": "JX745",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-26T11:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "SJX746",
+        "flight_no": "JX746",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-26T11:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "SVA861",
+        "flight_no": "SV861",
+        "route_iata_full": "MNL-RUH",
+        "last_updated": "2024-11-27T10:33:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "RUH"
+            }
+        ]
+    },
+    {
+        "callsign": "SVA862",
+        "flight_no": "SV862",
+        "route_iata_full": "RUH-MNL",
+        "last_updated": "2024-11-27T10:33:00Z",
+        "legs": [
+            {
+                "dep_iata": "RUH",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "SVA870",
+        "flight_no": "SV870",
+        "route_iata_full": "JED-MNL",
+        "last_updated": "2024-11-25T17:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "JED",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "SVA871",
+        "flight_no": "SV871",
+        "route_iata_full": "MNL-JED",
+        "last_updated": "2024-11-25T17:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "JED"
+            }
+        ]
+    }
+]

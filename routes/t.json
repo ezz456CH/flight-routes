@@ -1,0 +1,1394 @@
+[
+    {
+        "callsign": "TAX600",
+        "flight_no": "XJ600",
+        "route_iata_full": "DMK-NRT",
+        "last_updated": "2024-11-25T18:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX601",
+        "flight_no": "XJ601",
+        "route_iata_full": "NRT-DMK",
+        "last_updated": "2024-11-25T18:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX602",
+        "flight_no": "XJ602",
+        "route_iata_full": "DMK-NRT",
+        "last_updated": "2024-11-28T08:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX603",
+        "flight_no": "XJ603",
+        "route_iata_full": "NRT-DMK",
+        "last_updated": "2024-11-28T08:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX606",
+        "flight_no": "XJ606",
+        "route_iata_full": "DMK-NRT",
+        "last_updated": "2024-11-25T18:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX607",
+        "flight_no": "XJ607",
+        "route_iata_full": "NRT-DMK",
+        "last_updated": "2024-11-25T18:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX610",
+        "flight_no": "XJ610",
+        "route_iata_full": "DMK-KIX",
+        "last_updated": "2024-11-25T17:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX611",
+        "flight_no": "XJ611",
+        "route_iata_full": "KIX-DMK",
+        "last_updated": "2024-11-25T17:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX620",
+        "flight_no": "XJ620",
+        "route_iata_full": "DMK-CTS",
+        "last_updated": "2024-11-27T09:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "CTS"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX621",
+        "flight_no": "XJ621",
+        "route_iata_full": "CTS-DMK",
+        "last_updated": "2024-11-27T09:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "CTS",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX638",
+        "flight_no": "XJ638",
+        "route_iata_full": "DMK-NGO",
+        "last_updated": "2024-11-27T07:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "NGO"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX639",
+        "flight_no": "XJ639",
+        "route_iata_full": "NGO-DMK",
+        "last_updated": "2024-11-27T07:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "NGO",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX700",
+        "flight_no": "XJ700",
+        "route_iata_full": "DMK-ICN",
+        "last_updated": "2024-11-26T07:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX701",
+        "flight_no": "XJ701",
+        "route_iata_full": "ICN-DMK",
+        "last_updated": "2024-11-26T07:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX708",
+        "flight_no": "XJ708",
+        "route_iata_full": "DMK-ICN",
+        "last_updated": "2024-11-26T13:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX709",
+        "flight_no": "XJ709",
+        "route_iata_full": "ICN-DMK",
+        "last_updated": "2024-11-26T13:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA020",
+        "flight_no": "TG020",
+        "route_iata_full": "BKK-UBP",
+        "last_updated": "2024-11-25T05:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "THA021",
+        "flight_no": "TG021",
+        "route_iata_full": "UBP-BKK",
+        "last_updated": "2024-11-25T05:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA028",
+        "flight_no": "TG028",
+        "route_iata_full": "BKK-UBP",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "THA029",
+        "flight_no": "TG029",
+        "route_iata_full": "UBP-BKK",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA600",
+        "flight_no": "TG600",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-26T07:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA601",
+        "flight_no": "TG601",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-26T07:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA602",
+        "flight_no": "TG602",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-26T12:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA603",
+        "flight_no": "TG603",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-26T12:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA620",
+        "flight_no": "TG620",
+        "route_iata_full": "BKK-MNL",
+        "last_updated": "2024-11-26T08:17:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "THA621",
+        "flight_no": "TG621",
+        "route_iata_full": "MNL-BKK",
+        "last_updated": "2024-11-26T08:17:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA622",
+        "flight_no": "TG622",
+        "route_iata_full": "BKK-KIX",
+        "last_updated": "2024-11-25T18:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "THA623",
+        "flight_no": "TG623",
+        "route_iata_full": "KIX-BKK",
+        "last_updated": "2024-11-25T18:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA624",
+        "flight_no": "TG624",
+        "route_iata_full": "BKK-MNL",
+        "last_updated": "2024-11-26T10:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "THA625",
+        "flight_no": "TG625",
+        "route_iata_full": "MNL-BKK",
+        "last_updated": "2024-11-26T10:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA628",
+        "flight_no": "TG628",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-25T04:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA629",
+        "flight_no": "TG629",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-25T04:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA630",
+        "flight_no": "TG630",
+        "route_iata_full": "BKK-KHH",
+        "last_updated": "2024-11-26T11:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "KHH"
+            }
+        ]
+    },
+    {
+        "callsign": "THA631",
+        "flight_no": "TG631",
+        "route_iata_full": "KHH-BKK",
+        "last_updated": "2024-11-26T11:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "KHH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA632",
+        "flight_no": "TG632",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-27T08:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "THA633",
+        "flight_no": "TG633",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-27T08:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA634",
+        "flight_no": "TG634",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-26T13:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "THA635",
+        "flight_no": "TG635",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-26T13:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA636",
+        "flight_no": "TG636",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-27T07:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "THA637",
+        "flight_no": "TG637",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-27T07:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA638",
+        "flight_no": "TG638",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-11-26T07:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA639",
+        "flight_no": "TG639",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-11-26T07:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA640",
+        "flight_no": "TG640",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2024-11-26T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "THA641",
+        "flight_no": "TG641",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2024-11-26T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA642",
+        "flight_no": "TG642",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2024-11-25T17:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "THA643",
+        "flight_no": "TG643",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2024-11-25T17:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA644",
+        "flight_no": "TG644",
+        "route_iata_full": "BKK-NGO",
+        "last_updated": "2024-11-25T18:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NGO"
+            }
+        ]
+    },
+    {
+        "callsign": "THA645",
+        "flight_no": "TG645",
+        "route_iata_full": "NGO-BKK",
+        "last_updated": "2024-11-25T18:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "NGO",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA646",
+        "flight_no": "TG646",
+        "route_iata_full": "BKK-NGO",
+        "last_updated": "2024-11-28T08:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NGO"
+            }
+        ]
+    },
+    {
+        "callsign": "THA647",
+        "flight_no": "TG647",
+        "route_iata_full": "NGO-BKK",
+        "last_updated": "2024-11-28T08:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "NGO",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA648",
+        "flight_no": "TG648",
+        "route_iata_full": "BKK-FUK",
+        "last_updated": "2024-11-26T07:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "FUK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA649",
+        "flight_no": "TG649",
+        "route_iata_full": "FUK-BKK",
+        "last_updated": "2024-11-26T07:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "FUK",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA652",
+        "flight_no": "TG652",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-11-26T18:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "THA653",
+        "flight_no": "TG653",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-11-26T18:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA656",
+        "flight_no": "TG656",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-11-27T12:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "THA657",
+        "flight_no": "TG657",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-11-27T12:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA658",
+        "flight_no": "TG658",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-11-27T12:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "THA659",
+        "flight_no": "TG659",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-11-27T12:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA660",
+        "flight_no": "TG660",
+        "route_iata_full": "BKK-HND",
+        "last_updated": "2024-11-27T09:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "THA661",
+        "flight_no": "TG661",
+        "route_iata_full": "HND-BKK",
+        "last_updated": "2024-11-27T09:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA664",
+        "flight_no": "TG664",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-11-27T12:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA665",
+        "flight_no": "TG665",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-11-27T12:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA668",
+        "flight_no": "TG668",
+        "route_iata_full": "BKK-CAN",
+        "last_updated": "2024-11-27T07:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "THA669",
+        "flight_no": "TG669",
+        "route_iata_full": "CAN-BKK",
+        "last_updated": "2024-11-27T07:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA670",
+        "flight_no": "TG670",
+        "route_iata_full": "BKK-CTS",
+        "last_updated": "2024-11-25T17:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CTS"
+            }
+        ]
+    },
+    {
+        "callsign": "THA671",
+        "flight_no": "TG671",
+        "route_iata_full": "CTS-BKK",
+        "last_updated": "2024-11-25T17:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "CTS",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA672",
+        "flight_no": "TG672",
+        "route_iata_full": "BKK-KIX",
+        "last_updated": "2024-11-27T07:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "THA673",
+        "flight_no": "TG673",
+        "route_iata_full": "KIX-BKK",
+        "last_updated": "2024-11-27T07:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA676",
+        "flight_no": "TG676",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2024-11-27T07:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "THA677",
+        "flight_no": "TG677",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2024-11-27T07:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA682",
+        "flight_no": "TG682",
+        "route_iata_full": "BKK-HND",
+        "last_updated": "2024-11-26T07:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "THA683",
+        "flight_no": "TG683",
+        "route_iata_full": "HND-BKK",
+        "last_updated": "2024-11-26T07:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THY84",
+        "flight_no": "TK084",
+        "route_iata_full": "IST-MNL",
+        "last_updated": "2024-11-27T10:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "IST",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "THY85",
+        "flight_no": "TK085",
+        "route_iata_full": "MNL-IST",
+        "last_updated": "2024-11-27T10:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "IST"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM360",
+        "flight_no": "SL360",
+        "route_iata_full": "DMK-HKG",
+        "last_updated": "2024-11-26T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM361",
+        "flight_no": "SL361",
+        "route_iata_full": "HKG-DMK",
+        "last_updated": "2024-11-26T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM370",
+        "flight_no": "SL370",
+        "route_iata_full": "DMK-MFM",
+        "last_updated": "2024-11-27T12:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "MFM"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM371",
+        "flight_no": "SL371",
+        "route_iata_full": "MFM-DMK",
+        "last_updated": "2024-11-27T12:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "MFM",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM372",
+        "flight_no": "SL372",
+        "route_iata_full": "DMK-MFM",
+        "last_updated": "2024-11-27T08:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "MFM"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM373",
+        "flight_no": "SL373",
+        "route_iata_full": "MFM-DMK",
+        "last_updated": "2024-11-27T08:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "MFM",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM394",
+        "flight_no": "SL394",
+        "route_iata_full": "DMK-TPE-NRT",
+        "last_updated": "2024-11-26T17:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM395",
+        "flight_no": "SL395",
+        "route_iata_full": "NRT-TPE-DMK",
+        "last_updated": "2024-11-26T17:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM398",
+        "flight_no": "SL398",
+        "route_iata_full": "DMK-TPE",
+        "last_updated": "2024-11-28T08:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM399",
+        "flight_no": "SL399",
+        "route_iata_full": "TPE-DMK",
+        "last_updated": "2024-11-28T08:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM620",
+        "flight_no": "SL620",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2024-11-25T02:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM621",
+        "flight_no": "SL621",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2024-11-25T02:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM628",
+        "flight_no": "SL628",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM629",
+        "flight_no": "SL629",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM900",
+        "flight_no": "SL900",
+        "route_iata_full": "DMK-CAN",
+        "last_updated": "2024-11-28T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM901",
+        "flight_no": "SL901",
+        "route_iata_full": "CAN-DMK",
+        "last_updated": "2024-11-28T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TTW503",
+        "flight_no": "IT503",
+        "route_iata_full": "TPE-HKT",
+        "last_updated": "2024-11-26T07:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "TTW504",
+        "flight_no": "IT504",
+        "route_iata_full": "HKT-TPE",
+        "last_updated": "2024-11-26T07:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ220",
+        "flight_no": "VZ220",
+        "route_iata_full": "BKK-UBP",
+        "last_updated": "2024-11-25T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ221",
+        "flight_no": "VZ221",
+        "route_iata_full": "UBP-BKK",
+        "last_updated": "2024-11-25T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ224",
+        "flight_no": "VZ224",
+        "route_iata_full": "BKK-UBP",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ225",
+        "flight_no": "VZ225",
+        "route_iata_full": "UBP-BKK",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ564",
+        "flight_no": "VZ564",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-27T09:40:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ565",
+        "flight_no": "VZ565",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-27T09:40:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ566",
+        "flight_no": "VZ566",
+        "route_iata_full": "BKK-TPE-KIX",
+        "last_updated": "2024-11-29T11:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ567",
+        "flight_no": "VZ567",
+        "route_iata_full": "KIX-TPE-BKK",
+        "last_updated": "2024-11-29T11:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ568",
+        "flight_no": "VZ568",
+        "route_iata_full": "BKK-TPE-OKA",
+        "last_updated": "2024-11-26T18:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "OKA"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ569",
+        "flight_no": "VZ569",
+        "route_iata_full": "OKA-TPE-BKK",
+        "last_updated": "2024-11-26T18:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "OKA",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ810",
+        "flight_no": "VZ810",
+        "route_iata_full": "BKK-FUK",
+        "last_updated": "2024-11-29T18:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "FUK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ811",
+        "flight_no": "VZ811",
+        "route_iata_full": "FUK-BKK",
+        "last_updated": "2024-11-29T18:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "FUK",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ960",
+        "flight_no": "VZ960",
+        "route_iata_full": "BKK-DAD",
+        "last_updated": "2024-11-27T07:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "DAD"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ961",
+        "flight_no": "VZ961",
+        "route_iata_full": "DAD-BKK",
+        "last_updated": "2024-11-27T07:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "DAD",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ962",
+        "flight_no": "VZ962",
+        "route_iata_full": "BKK-DAD",
+        "last_updated": "2024-11-26T12:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "DAD"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ963",
+        "flight_no": "VZ963",
+        "route_iata_full": "DAD-BKK",
+        "last_updated": "2024-11-26T12:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "DAD",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ964",
+        "flight_no": "VZ964",
+        "route_iata_full": "BKK-DAD",
+        "last_updated": "2024-11-27T07:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "DAD"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ965",
+        "flight_no": "VZ965",
+        "route_iata_full": "DAD-BKK",
+        "last_updated": "2024-11-27T07:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "DAD",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TWB105",
+        "flight_no": "TW105",
+        "route_iata_full": "TAE-BKK",
+        "last_updated": "2024-11-25T17:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "TAE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TWB106",
+        "flight_no": "TW106",
+        "route_iata_full": "BKK-TAE",
+        "last_updated": "2024-11-25T17:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TAE"
+            }
+        ]
+    },
+    {
+        "callsign": "TZP51",
+        "flight_no": "ZG051",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2024-11-25T18:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TZP52",
+        "flight_no": "ZG052",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2024-11-25T18:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    }
+]

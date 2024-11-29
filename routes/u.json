@@ -1,0 +1,186 @@
+[
+    {
+        "callsign": "UAE332",
+        "flight_no": "EK332",
+        "route_iata_full": "DXB-MNL",
+        "last_updated": "2024-11-27T12:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE333",
+        "flight_no": "EK333",
+        "route_iata_full": "MNL-DXB",
+        "last_updated": "2024-11-27T12:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE334",
+        "flight_no": "EK334",
+        "route_iata_full": "DXB-MNL",
+        "last_updated": "2024-11-25T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE335",
+        "flight_no": "EK335",
+        "route_iata_full": "MNL-DXB",
+        "last_updated": "2024-11-25T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE382",
+        "flight_no": "EK382",
+        "route_iata_full": "DXB-HKG",
+        "last_updated": "2024-11-26T12:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE383",
+        "flight_no": "EK383",
+        "route_iata_full": "HKG-DXB",
+        "last_updated": "2024-11-26T12:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE384",
+        "flight_no": "EK384",
+        "route_iata_full": "DXB-BKK-HKG",
+        "last_updated": "2024-11-26T08:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE385",
+        "flight_no": "EK385",
+        "route_iata_full": "HKG-BKK-DXB",
+        "last_updated": "2024-11-26T08:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9784",
+        "flight_no": "EK9784",
+        "route_iata_full": "DWC-HKG",
+        "last_updated": "2024-11-26T15:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9785",
+        "flight_no": "EK9785",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2024-11-26T15:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9928",
+        "flight_no": "EK9928",
+        "route_iata_full": "DWC-HKG",
+        "last_updated": "2024-11-27T13:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9929",
+        "flight_no": "EK9929",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2024-11-27T13:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
+        "callsign": "UPS3",
+        "flight_no": "5X003",
+        "route_iata_full": "HKG-DXB-CGN",
+        "last_updated": "2024-11-27T07:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DXB"
+            },
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "CGN"
+            }
+        ]
+    },
+    {
+        "callsign": "UPS4",
+        "flight_no": "5X004",
+        "route_iata_full": "CGN-STN-HKG",
+        "last_updated": "2024-11-27T07:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGN",
+                "arr_iata": "STN"
+            },
+            {
+                "dep_iata": "STN",
+                "arr_iata": "HKG"
+            }
+        ]
+    }
+]

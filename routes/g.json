@@ -1,0 +1,54 @@
+[
+    {
+        "callsign": "GEC8472",
+        "flight_no": "LH8472",
+        "route_iata_full": "FRA-HKG",
+        "last_updated": "2024-11-27T13:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "GEC8473",
+        "flight_no": "LH8473",
+        "route_iata_full": "HKG-DWC-FRA",
+        "last_updated": "2024-11-27T13:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
+    },
+    {
+        "callsign": "GFA154",
+        "flight_no": "GF154",
+        "route_iata_full": "BAH-MNL",
+        "last_updated": "2024-11-29T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "BAH",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "GFA155",
+        "flight_no": "GF155",
+        "route_iata_full": "MNL-BAH",
+        "last_updated": "2024-11-29T07:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "BAH"
+            }
+        ]
+    }
+]

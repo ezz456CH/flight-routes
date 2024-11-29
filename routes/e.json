@@ -1,0 +1,218 @@
+[
+    {
+        "callsign": "ESR511",
+        "flight_no": "ZE511",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-11-26T13:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "ESR512",
+        "flight_no": "ZE512",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-11-26T13:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "ETD440",
+        "flight_no": "EY440",
+        "route_iata_full": "AUH-MNL",
+        "last_updated": "2024-11-27T13:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "AUH",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "ETD441",
+        "flight_no": "EY441",
+        "route_iata_full": "MNL-AUH",
+        "last_updated": "2024-11-27T13:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "AUH"
+            }
+        ]
+    },
+    {
+        "callsign": "ETD446",
+        "flight_no": "EY446",
+        "route_iata_full": "AUH-MNL",
+        "last_updated": "2024-11-25T17:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "AUH",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "ETD447",
+        "flight_no": "EY447",
+        "route_iata_full": "MNL-AUH",
+        "last_updated": "2024-11-25T17:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "AUH"
+            }
+        ]
+    },
+    {
+        "callsign": "ETH608",
+        "flight_no": "ET608",
+        "route_iata_full": "ADD-BKK-HKG",
+        "last_updated": "2024-11-27T08:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "ADD",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "ETH609",
+        "flight_no": "ET609",
+        "route_iata_full": "HKG-BKK-ADD",
+        "last_updated": "2024-11-27T08:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ADD"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA067",
+        "flight_no": "BR067",
+        "route_iata_full": "TPE-BKK-LHR",
+        "last_updated": "2024-11-25T03:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "LHR"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA068",
+        "flight_no": "BR068",
+        "route_iata_full": "LHR-BKK-TPE",
+        "last_updated": "2024-11-26T11:17:00Z",
+        "legs": [
+            {
+                "dep_iata": "LHR",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA075",
+        "flight_no": "BR075",
+        "route_iata_full": "TPE-BKK-AMS",
+        "last_updated": "2024-11-26T11:17:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "AMS"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA076",
+        "flight_no": "BR076",
+        "route_iata_full": "AMS-BKK-TPE",
+        "last_updated": "2024-11-24T17:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "AMS",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA201",
+        "flight_no": "BR201",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-27T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA202",
+        "flight_no": "BR202",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-27T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA211",
+        "flight_no": "BR211",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-11-29T06:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA212",
+        "flight_no": "BR212",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-11-29T06:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "callsign": "BKP805",
+        "flight_no": "PG805",
+        "route_iata_full": "USM-HKG",
+        "last_updated": "2024-11-26T11:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "USM",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "BKP806",
+        "flight_no": "PG806",
+        "route_iata_full": "HKG-USM",
+        "last_updated": "2024-11-26T11:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "USM"
+            }
+        ]
+    },
+    {
+        "callsign": "BKP905",
+        "flight_no": "PG905",
+        "route_iata_full": "BKK-SAI",
+        "last_updated": "2024-11-29T07:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "BKP906",
+        "flight_no": "PG906",
+        "route_iata_full": "SAI-BKK",
+        "last_updated": "2024-11-29T07:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "BKK"
+            }
+        ]
+    }
+]
