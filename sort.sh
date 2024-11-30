@@ -3,7 +3,7 @@
 ROUTES_DIR="routes"
 
 for FILE in "$ROUTES_DIR"/*.json; do
-    jq --indent 4 'sort_by(.callsign | capture("(?<letters>\\D+)(?<numbers>\\d+)") | .letters, (.numbers | tonumber))' "$FILE" >"$FILE.tmp"
+    jq --indent 4 'sort_by(.callsign | capture("(?<letters>\\D+)(?<numbers>\\d+)?") | .letters, (.numbers // 0 | tonumber))' "$FILE" >"$FILE.tmp"
 
     mv "$FILE.tmp" "$FILE"
 
