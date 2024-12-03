@@ -46,5 +46,37 @@
                 "arr_iata": "BKK"
             }
         ]
+    },
+    {
+        "callsign": "BOX630",
+        "flight_no": "3S630",
+        "route_iata_full": "FRA-TAS-HKG",
+        "last_updated": "2024-11-30T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "TAS"
+            },
+            {
+                "dep_iata": "TAS",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "BOX631",
+        "flight_no": "3S631",
+        "route_iata_full": "HKG-DWC-FRA",
+        "last_updated": "2024-11-30T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
     }
 ]

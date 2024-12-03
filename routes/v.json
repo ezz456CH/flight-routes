@@ -48,6 +48,30 @@
         ]
     },
     {
+        "callsign": "VJC451",
+        "flight_no": "VJ451",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2024-12-03T17:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC452",
+        "flight_no": "VJ452",
+        "route_iata_full": "PQC-HAN",
+        "last_updated": "2024-12-03T17:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "VJC453",
         "flight_no": "VJ453",
         "route_iata_full": "HAN-PQC",
@@ -116,6 +140,30 @@
             {
                 "dep_iata": "PQC",
                 "arr_iata": "HPH"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC844",
+        "flight_no": "VJ844",
+        "route_iata_full": "PQC-TPE",
+        "last_updated": "2024-12-03T18:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC845",
+        "flight_no": "VJ845",
+        "route_iata_full": "TPE-PQC",
+        "last_updated": "2024-12-03T18:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "PQC"
             }
         ]
     },
@@ -216,6 +264,30 @@
         ]
     },
     {
+        "callsign": "VJC968",
+        "flight_no": "VJ968",
+        "route_iata_full": "PQC-PUS",
+        "last_updated": "2024-12-03T17:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "PUS"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC969",
+        "flight_no": "VJ969",
+        "route_iata_full": "PUS-PQC",
+        "last_updated": "2024-12-03T17:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "PUS",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
         "callsign": "VJC974",
         "flight_no": "VJ974",
         "route_iata_full": "PQC-ICN",
@@ -288,6 +360,54 @@
         ]
     },
     {
+        "callsign": "VJC992",
+        "flight_no": "VJ992",
+        "route_iata_full": "PQC-KHH",
+        "last_updated": "2024-12-03T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "KHH"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC993",
+        "flight_no": "VJ993",
+        "route_iata_full": "KHH-PQC",
+        "last_updated": "2024-12-03T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "KHH",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC994",
+        "flight_no": "VJ994",
+        "route_iata_full": "PQC-RMQ",
+        "last_updated": "2024-12-03T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "RMQ"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC995",
+        "flight_no": "VJ995",
+        "route_iata_full": "RMQ-PQC",
+        "last_updated": "2024-12-03T18:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "RMQ",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
         "callsign": "VJC1453",
         "flight_no": "VJ1453",
         "route_iata_full": "HAN-PQC",
@@ -332,6 +452,30 @@
             {
                 "dep_iata": "VTE",
                 "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1971",
+        "flight_no": "VJ1971",
+        "route_iata_full": "DAD-AMD",
+        "last_updated": "2024-11-30T13:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "DAD",
+                "arr_iata": "AMD"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC1972",
+        "flight_no": "VJ1972",
+        "route_iata_full": "AMD-DAD",
+        "last_updated": "2024-11-30T13:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "AMD",
+                "arr_iata": "DAD"
             }
         ]
     },

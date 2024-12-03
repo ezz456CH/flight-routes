@@ -144,6 +144,30 @@
         ]
     },
     {
+        "callsign": "HKE764",
+        "flight_no": "UO764",
+        "route_iata_full": "HKG-HKT",
+        "last_updated": "2024-12-03T17:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE765",
+        "flight_no": "UO765",
+        "route_iata_full": "HKT-HKG",
+        "last_updated": "2024-12-03T17:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
         "callsign": "HVN660",
         "flight_no": "VN660",
         "route_iata_full": "SIN-HAN",

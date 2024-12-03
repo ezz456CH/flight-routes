@@ -96,6 +96,30 @@
         ]
     },
     {
+        "callsign": "MAS6176",
+        "flight_no": "MH6176",
+        "route_iata_full": "KUL-CAN",
+        "last_updated": "2024-12-03T17:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS6177",
+        "flight_no": "MH6177",
+        "route_iata_full": "CAN-KUL",
+        "last_updated": "2024-12-03T17:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
         "callsign": "MXD571",
         "flight_no": "OD571",
         "route_iata_full": "KUL-HAN",

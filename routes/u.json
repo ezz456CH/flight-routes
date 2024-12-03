@@ -48,6 +48,54 @@
         ]
     },
     {
+        "callsign": "UAE336",
+        "flight_no": "EK336",
+        "route_iata_full": "DXB-MNL",
+        "last_updated": "2024-12-03T18:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE337",
+        "flight_no": "EK337",
+        "route_iata_full": "MNL-DXB",
+        "last_updated": "2024-12-03T18:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE366",
+        "flight_no": "EK366",
+        "route_iata_full": "DXB-TPE",
+        "last_updated": "2024-12-01T18:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE367",
+        "flight_no": "EK367",
+        "route_iata_full": "TPE-DXB",
+        "last_updated": "2024-12-01T18:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
         "callsign": "UAE382",
         "flight_no": "EK382",
         "route_iata_full": "DXB-HKG",

@@ -288,6 +288,30 @@
         ]
     },
     {
+        "callsign": "AIQ576",
+        "flight_no": "FD576",
+        "route_iata_full": "DMK-SZX",
+        "last_updated": "2024-12-03T17:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ577",
+        "flight_no": "FD577",
+        "route_iata_full": "SZX-DMK",
+        "last_updated": "2024-12-03T17:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "AIQ596",
         "flight_no": "FD596",
         "route_iata_full": "DMK-SZX",
@@ -496,6 +520,30 @@
         "flight_no": "FD776",
         "route_iata_full": "MFM-DMK",
         "last_updated": "2024-11-28T08:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "MFM",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ786",
+        "flight_no": "FD786",
+        "route_iata_full": "DMK-MFM",
+        "last_updated": "2024-12-01T17:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "MFM"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ787",
+        "flight_no": "FD787",
+        "route_iata_full": "MFM-DMK",
+        "last_updated": "2024-12-01T17:35:00Z",
         "legs": [
             {
                 "dep_iata": "MFM",
@@ -1220,6 +1268,30 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "AXM156",
+        "flight_no": "AK156",
+        "route_iata_full": "KUL-KWL",
+        "last_updated": "2024-11-30T05:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "KWL"
+            }
+        ]
+    },
+    {
+        "callsign": "AXM157",
+        "flight_no": "AK157",
+        "route_iata_full": "KWL-KUL",
+        "last_updated": "2024-11-30T05:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "KWL",
+                "arr_iata": "KUL"
             }
         ]
     },

@@ -96,6 +96,30 @@
         ]
     },
     {
+        "callsign": "TAX612",
+        "flight_no": "XJ612",
+        "route_iata_full": "DMK-KIX",
+        "last_updated": "2024-12-03T17:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX613",
+        "flight_no": "XJ613",
+        "route_iata_full": "KIX-DMK",
+        "last_updated": "2024-12-03T17:45:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "TAX620",
         "flight_no": "XJ620",
         "route_iata_full": "DMK-CTS",
@@ -187,6 +211,30 @@
         "legs": [
             {
                 "dep_iata": "ICN",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX760",
+        "flight_no": "XJ760",
+        "route_iata_full": "DMK-PVG",
+        "last_updated": "2024-11-30T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "TAX761",
+        "flight_no": "XJ761",
+        "route_iata_full": "PVG-DMK",
+        "last_updated": "2024-11-30T05:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
                 "arr_iata": "DMK"
             }
         ]
@@ -1088,6 +1136,30 @@
         ]
     },
     {
+        "callsign": "TLM902",
+        "flight_no": "SL902",
+        "route_iata_full": "DMK-SZX",
+        "last_updated": "2024-12-03T17:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM903",
+        "flight_no": "SL903",
+        "route_iata_full": "SZX-DMK",
+        "last_updated": "2024-12-03T17:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "TTW503",
         "flight_no": "IT503",
         "route_iata_full": "TPE-HKT",
@@ -1339,6 +1411,54 @@
         "legs": [
             {
                 "dep_iata": "DAD",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ3524",
+        "flight_no": "VZ3524",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-01T18:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ3525",
+        "flight_no": "VZ3525",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-01T18:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ3536",
+        "flight_no": "VZ3536",
+        "route_iata_full": "BKK-HGH",
+        "last_updated": "2024-12-01T17:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HGH"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ3537",
+        "flight_no": "VZ3537",
+        "route_iata_full": "HGH-BKK",
+        "last_updated": "2024-12-01T17:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "HGH",
                 "arr_iata": "BKK"
             }
         ]

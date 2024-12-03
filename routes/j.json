@@ -192,6 +192,62 @@
         ]
     },
     {
+        "callsign": "JNA091",
+        "flight_no": "LJ091",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2024-12-01T16:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA092",
+        "flight_no": "LJ092",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-01T16:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1229",
+        "flight_no": "AQ1229",
+        "route_iata_full": "CGQ-LYG-BKK",
+        "last_updated": "2024-12-03T17:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGQ",
+                "arr_iata": "LYG"
+            },
+            {
+                "dep_iata": "LYG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1230",
+        "flight_no": "AQ1230",
+        "route_iata_full": "BKK-LYG-CGQ",
+        "last_updated": "2024-12-03T17:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "LYG"
+            },
+            {
+                "dep_iata": "LYG",
+                "arr_iata": "CGQ"
+            }
+        ]
+    },
+    {
         "callsign": "JYH1267",
         "flight_no": "AQ1267",
         "route_iata_full": "CAN-BKK",

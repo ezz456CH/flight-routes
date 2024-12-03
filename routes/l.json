@@ -136,6 +136,30 @@
         ]
     },
     {
+        "callsign": "LAO888",
+        "flight_no": "QV888",
+        "route_iata_full": "PKZ-CAN",
+        "last_updated": "2024-12-01T16:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKZ",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "LAO889",
+        "flight_no": "QV889",
+        "route_iata_full": "CAN-PKZ",
+        "last_updated": "2024-12-01T16:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "PKZ"
+            }
+        ]
+    },
+    {
         "callsign": "LXW155",
         "flight_no": "LXW155",
         "route_iata_full": "VTE-PKZ",
