@@ -228,10 +228,10 @@
         ]
     },
     {
-        "callsign": "VJC916 ",
+        "callsign": "VJC916",
         "flight_no": "VJ916",
         "route_iata_full": "SIN-HAN",
-        "last_updated": "2024-11-27T11:06:00Z",
+        "last_updated": "2024-12-08T10:08:00Z",
         "legs": [
             {
                 "dep_iata": "SIN",
@@ -524,6 +524,30 @@
             {
                 "dep_iata": "TFU",
                 "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "VSV5318",
+        "flight_no": "DV5318",
+        "route_iata_full": "ALA-PQC",
+        "last_updated": "2024-12-08T08:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "ALA",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VSV5319",
+        "flight_no": "DV5319",
+        "route_iata_full": "PQC-ALA",
+        "last_updated": "2024-12-08T08:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ALA"
             }
         ]
     },

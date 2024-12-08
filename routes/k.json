@@ -642,5 +642,29 @@
                 "arr_iata": "BKK"
             }
         ]
+    },
+    {
+        "callsign": "KZR161",
+        "flight_no": "KC161",
+        "route_iata_full": "ALA-PQC",
+        "last_updated": "2024-12-08T03:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "ALA",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "KZR162",
+        "flight_no": "KC162",
+        "route_iata_full": "PQC-ALA",
+        "last_updated": "2024-12-08T03:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ALA"
+            }
+        ]
     }
 ]

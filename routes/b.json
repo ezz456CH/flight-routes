@@ -48,6 +48,30 @@
         ]
     },
     {
+        "callsign": "BKP907",
+        "flight_no": "PG907",
+        "route_iata_full": "BKK-SAI",
+        "last_updated": "2024-12-08T14:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "BKP908",
+        "flight_no": "PG908",
+        "route_iata_full": "SAI-BKK",
+        "last_updated": "2024-12-08T14:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "BOX630",
         "flight_no": "3S630",
         "route_iata_full": "FRA-TAS-HKG",

@@ -1,5 +1,29 @@
 [
     {
+        "callsign": "HGB281",
+        "flight_no": "HB281",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-12-08T14:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HGB282",
+        "flight_no": "HB282",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-12-08T14:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
         "callsign": "HGB283",
         "flight_no": "HB283",
         "route_iata_full": "HKG-BKK",
@@ -163,6 +187,54 @@
         "legs": [
             {
                 "dep_iata": "HKT",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE792",
+        "flight_no": "UO792",
+        "route_iata_full": "HKG-DMK",
+        "last_updated": "2024-12-08T09:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE793",
+        "flight_no": "UO793",
+        "route_iata_full": "DMK-HKG",
+        "last_updated": "2024-12-08T09:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE794",
+        "flight_no": "UO794",
+        "route_iata_full": "HKG-DMK",
+        "last_updated": "2024-12-08T09:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKE795",
+        "flight_no": "UO795",
+        "route_iata_full": "DMK-HKG",
+        "last_updated": "2024-12-08T09:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
                 "arr_iata": "HKG"
             }
         ]

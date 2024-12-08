@@ -24,6 +24,78 @@
         ]
     },
     {
+        "callsign": "RMY3091",
+        "flight_no": "TH3091",
+        "route_iata_full": "HKG-PEN",
+        "last_updated": "2024-12-08T15:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "PEN"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY3092",
+        "flight_no": "TH3092",
+        "route_iata_full": "PEN-HKG",
+        "last_updated": "2024-12-08T15:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "PEN",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY3507",
+        "flight_no": "TH3507",
+        "route_iata_full": "KUL-HKG",
+        "last_updated": "2024-12-08T15:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY3508",
+        "flight_no": "TH3508",
+        "route_iata_full": "HKG-KUL",
+        "last_updated": "2024-12-08T15:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY6826",
+        "flight_no": "TH6826",
+        "route_iata_full": "KCH-HKG",
+        "last_updated": "2024-12-08T15:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "KCH",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "RMY6827",
+        "flight_no": "TH6827",
+        "route_iata_full": "HKG-KUL",
+        "last_updated": "2024-12-08T15:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
         "callsign": "RMY8801",
         "flight_no": "TH8801",
         "route_iata_full": "KUL-NNG",

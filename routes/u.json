@@ -230,5 +230,41 @@
                 "arr_iata": "HKG"
             }
         ]
+    },
+    {
+        "callsign": "UPS15",
+        "flight_no": "5X015",
+        "route_iata_full": "SZX-BKK-DEL-CGN",
+        "last_updated": "2024-12-08T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "DEL"
+            },
+            {
+                "dep_iata": "DEL",
+                "arr_iata": "CGN"
+            }
+        ]
+    },
+    {
+        "callsign": "UPS72",
+        "flight_no": "5X072",
+        "route_iata_full": "SDF-ANC-SZX",
+        "last_updated": "2024-12-08T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SDF",
+                "arr_iata": "ANC"
+            },
+            {
+                "dep_iata": "ANC",
+                "arr_iata": "SZX"
+            }
+        ]
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "callsign": "GEC8442",
+        "flight_no": "LH8442",
+        "route_iata_full": "FRA-SZX",
+        "last_updated": "2024-12-08T15:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "GEC8443",
+        "flight_no": "LH8443",
+        "route_iata_full": "SZX-DWC-FRA",
+        "last_updated": "2024-12-08T15:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
+    },
+    {
         "callsign": "GEC8472",
         "flight_no": "LH8472",
         "route_iata_full": "FRA-HKG",
@@ -19,6 +47,34 @@
         "legs": [
             {
                 "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
+    },
+    {
+        "callsign": "GEC8480",
+        "flight_no": "LH8480",
+        "route_iata_full": "FRA-TPE",
+        "last_updated": "2024-12-08T15:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "GEC8481",
+        "flight_no": "LH8481",
+        "route_iata_full": "TPE-DWC-FRA",
+        "last_updated": "2024-12-08T15:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
                 "arr_iata": "DWC"
             },
             {

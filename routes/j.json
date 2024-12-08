@@ -48,6 +48,30 @@
         ]
     },
     {
+        "callsign": "JAL50",
+        "flight_no": "JL050",
+        "route_iata_full": "DOH-HND",
+        "last_updated": "2024-12-08T14:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "DOH",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL59",
+        "flight_no": "JL059",
+        "route_iata_full": "HND-DOH",
+        "last_updated": "2024-12-08T14:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "DOH"
+            }
+        ]
+    },
+    {
         "callsign": "JAL707",
         "flight_no": "JL707",
         "route_iata_full": "NRT-BKK",
@@ -116,6 +140,30 @@
             {
                 "dep_iata": "SIN",
                 "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2205",
+        "flight_no": "7C2205",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-08T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2206",
+        "flight_no": "7C2206",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-08T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
             }
         ]
     },
@@ -212,6 +260,30 @@
             {
                 "dep_iata": "PQC",
                 "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JSA817",
+        "flight_no": "3K817",
+        "route_iata_full": "SIN-HAK",
+        "last_updated": "2024-12-08T13:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAK"
+            }
+        ]
+    },
+    {
+        "callsign": "JSA818",
+        "flight_no": "3K818",
+        "route_iata_full": "HAK-SIN",
+        "last_updated": "2024-12-08T13:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "SIN"
             }
         ]
     },

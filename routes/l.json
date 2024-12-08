@@ -160,6 +160,30 @@
         ]
     },
     {
+        "callsign": "LLL216",
+        "flight_no": "LK216",
+        "route_iata_full": "VTE-PKZ",
+        "last_updated": "2024-12-08T03:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "VTE",
+                "arr_iata": "PKZ"
+            }
+        ]
+    },
+    {
+        "callsign": "LLL217",
+        "flight_no": "LK217",
+        "route_iata_full": "PKZ-VTE",
+        "last_updated": "2024-12-08T03:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKZ",
+                "arr_iata": "VTE"
+            }
+        ]
+    },
+    {
         "callsign": "LXW155",
         "flight_no": "LXW155",
         "route_iata_full": "VTE-PKZ",

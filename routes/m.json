@@ -24,6 +24,30 @@
         ]
     },
     {
+        "callsign": "MAS366",
+        "flight_no": "MH366",
+        "route_iata_full": "KUL-TPE",
+        "last_updated": "2024-12-08T14:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS367",
+        "flight_no": "MH367",
+        "route_iata_full": "TPE-KUL",
+        "last_updated": "2024-12-08T14:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
         "callsign": "MAS386",
         "flight_no": "MH386",
         "route_iata_full": "KUL-PVG",
@@ -44,6 +68,18 @@
             {
                 "dep_iata": "PVG",
                 "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS388",
+        "flight_no": "MH388",
+        "route_iata_full": "KUL-PVG",
+        "last_updated": "2024-12-08T14:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "PVG"
             }
         ]
     },

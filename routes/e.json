@@ -216,6 +216,30 @@
         ]
     },
     {
+        "callsign": "EVA205",
+        "flight_no": "BR205",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-12-08T14:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA206",
+        "flight_no": "BR206",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-12-08T14:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
         "callsign": "EVA211",
         "flight_no": "BR211",
         "route_iata_full": "TPE-BKK",
@@ -232,6 +256,30 @@
         "flight_no": "BR212",
         "route_iata_full": "BKK-TPE",
         "last_updated": "2024-11-29T06:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA6001",
+        "flight_no": "BR6001",
+        "route_iata_full": "TPE-BKK",
+        "last_updated": "2024-12-08T14:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA6002",
+        "flight_no": "BR6002",
+        "route_iata_full": "BKK-TPE",
+        "last_updated": "2024-12-08T14:09:00Z",
         "legs": [
             {
                 "dep_iata": "BKK",

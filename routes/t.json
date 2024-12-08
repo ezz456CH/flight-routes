@@ -768,6 +768,30 @@
         ]
     },
     {
+        "callsign": "THA662",
+        "flight_no": "TG662",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-08T03:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "THA663",
+        "flight_no": "TG663",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-08T03:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "THA664",
         "flight_no": "TG664",
         "route_iata_full": "BKK-PVG",
@@ -929,6 +953,38 @@
         "route_iata_full": "MNL-IST",
         "last_updated": "2024-11-27T10:05:00Z",
         "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "IST"
+            }
+        ]
+    },
+    {
+        "callsign": "THY264",
+        "flight_no": "TK264",
+        "route_iata_full": "IST-MNL-CEB",
+        "last_updated": "2024-12-08T16:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "IST",
+                "arr_iata": "MNL"
+            },
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "CEB"
+            }
+        ]
+    },
+    {
+        "callsign": "THY265",
+        "flight_no": "TK265",
+        "route_iata_full": "CEB-MNL-IST",
+        "last_updated": "2024-12-08T16:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "CEB",
+                "arr_iata": "MNL"
+            },
             {
                 "dep_iata": "MNL",
                 "arr_iata": "IST"
@@ -1160,6 +1216,54 @@
         ]
     },
     {
+        "callsign": "TLM926",
+        "flight_no": "SL926",
+        "route_iata_full": "DMK-PVG",
+        "last_updated": "2024-12-08T15:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM927",
+        "flight_no": "SL927",
+        "route_iata_full": "PVG-DMK",
+        "last_updated": "2024-12-08T15:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM8812",
+        "flight_no": "SL8812",
+        "route_iata_full": "DMK-SYX",
+        "last_updated": "2024-12-08T15:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SYX"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM8813",
+        "flight_no": "SL8813",
+        "route_iata_full": "SYX-DMK",
+        "last_updated": "2024-12-08T15:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "SYX",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "TTW503",
         "flight_no": "IT503",
         "route_iata_full": "TPE-HKT",
@@ -1344,6 +1448,30 @@
         ]
     },
     {
+        "callsign": "TVJ822",
+        "flight_no": "VZ822",
+        "route_iata_full": "CNX-KIX",
+        "last_updated": "2024-12-08T07:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "CNX",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ823",
+        "flight_no": "VZ823",
+        "route_iata_full": "KIX-CNX",
+        "last_updated": "2024-12-08T07:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "CNX"
+            }
+        ]
+    },
+    {
         "callsign": "TVJ960",
         "flight_no": "VZ960",
         "route_iata_full": "BKK-DAD",
@@ -1460,6 +1588,30 @@
             {
                 "dep_iata": "HGH",
                 "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TWB101",
+        "flight_no": "TW101",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-08T14:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TWB102",
+        "flight_no": "TW102",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-08T14:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
             }
         ]
     },

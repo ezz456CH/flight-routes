@@ -24,6 +24,30 @@
         ]
     },
     {
+        "callsign": "SIA801",
+        "flight_no": "SQ801",
+        "route_iata_full": "PEK-SIN",
+        "last_updated": "2024-12-08T14:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "PEK",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA802",
+        "flight_no": "SQ802",
+        "route_iata_full": "SIN-PEK",
+        "last_updated": "2024-12-08T14:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "PEK"
+            }
+        ]
+    },
+    {
         "callsign": "SIA7443",
         "flight_no": "SQ7443",
         "route_iata_full": "CVG-HNL-SYD-MEL-SIN",
@@ -64,6 +88,42 @@
             {
                 "dep_iata": "ICN",
                 "arr_iata": "CVG"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7447",
+        "flight_no": "SQ7447",
+        "route_iata_full": "LAX-SYD-SIN",
+        "last_updated": "2024-12-08T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "LAX",
+                "arr_iata": "SYD"
+            },
+            {
+                "dep_iata": "SYD",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7448",
+        "flight_no": "SQ7448",
+        "route_iata_full": "SIN-BKK-NGO-LAX",
+        "last_updated": "2024-12-08T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NGO"
+            },
+            {
+                "dep_iata": "NGO",
+                "arr_iata": "LAX"
             }
         ]
     },

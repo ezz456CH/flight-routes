@@ -120,6 +120,58 @@
         ]
     },
     {
+        "callsign": "CAL861",
+        "flight_no": "CI861",
+        "route_iata_full": "TPE-PNH",
+        "last_updated": "2024-12-08T14:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "CAL862",
+        "flight_no": "CI862",
+        "route_iata_full": "PNH-TPE",
+        "last_updated": "2024-12-08T14:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "CAL5521",
+        "flight_no": "CI5521",
+        "route_iata_full": "TPE-DWC-FRA",
+        "last_updated": "2024-12-08T15:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
+    },
+    {
+        "callsign": "CAL5522",
+        "flight_no": "CI5522",
+        "route_iata_full": "FRA-TPE",
+        "last_updated": "2024-12-08T15:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
         "callsign": "CAL5883",
         "flight_no": "CI5883",
         "route_iata_full": "TPE-SIN",
@@ -636,6 +688,30 @@
         ]
     },
     {
+        "callsign": "CES285",
+        "flight_no": "MU285",
+        "route_iata_full": "SZX-BKK",
+        "last_updated": "2024-12-08T15:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CES286",
+        "flight_no": "MU286",
+        "route_iata_full": "BKK-SZX",
+        "last_updated": "2024-12-08T15:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
         "callsign": "CES541",
         "flight_no": "MU541",
         "route_iata_full": "PVG-BKK",
@@ -840,6 +916,30 @@
             {
                 "dep_iata": "TLV",
                 "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CHH721",
+        "flight_no": "HU721",
+        "route_iata_full": "HAK-BKK",
+        "last_updated": "2024-12-08T10:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CHH722",
+        "flight_no": "HU722",
+        "route_iata_full": "BKK-HAK",
+        "last_updated": "2024-12-08T10:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HAK"
             }
         ]
     },
@@ -1052,6 +1152,22 @@
         ]
     },
     {
+        "callsign": "CPA619",
+        "flight_no": "CX619",
+        "route_iata_full": "HKG-BKK-SIN",
+        "last_updated": "2024-12-08T14:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
         "callsign": "CPA623",
         "flight_no": "CX623",
         "route_iata_full": "HKG-BLR",
@@ -1071,6 +1187,22 @@
         "legs": [
             {
                 "dep_iata": "BLR",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CPA630",
+        "flight_no": "CX630",
+        "route_iata_full": "SIN-BKK-HKG",
+        "last_updated": "2024-12-08T10:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
                 "arr_iata": "HKG"
             }
         ]
@@ -1160,6 +1292,42 @@
         ]
     },
     {
+        "callsign": "CPA716",
+        "flight_no": "CX716",
+        "route_iata_full": "SIN-HKG",
+        "last_updated": "2024-12-08T14:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CPA748",
+        "flight_no": "CX748",
+        "route_iata_full": "JNB-HKG",
+        "last_updated": "2024-12-08T10:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "JNB",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CPA749",
+        "flight_no": "CX749",
+        "route_iata_full": "HKG-JNB",
+        "last_updated": "2024-12-08T10:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "JNB"
+            }
+        ]
+    },
+    {
         "callsign": "CPA750",
         "flight_no": "CX750",
         "route_iata_full": "BKK-HKG",
@@ -1192,6 +1360,18 @@
             {
                 "dep_iata": "HKG",
                 "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CPA759",
+        "flight_no": "CX759",
+        "route_iata_full": "HKG-SIN",
+        "last_updated": "2024-12-08T10:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "SIN"
             }
         ]
     },
@@ -1420,6 +1600,38 @@
         ]
     },
     {
+        "callsign": "CQH8541",
+        "flight_no": "9C8541",
+        "route_iata_full": "HRB-PVG-PNH",
+        "last_updated": "2024-12-08T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "HRB",
+                "arr_iata": "PVG"
+            },
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "CQH8542",
+        "flight_no": "9C8542",
+        "route_iata_full": "PNH-PVG-HRB",
+        "last_updated": "2024-12-08T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "PVG"
+            },
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "HRB"
+            }
+        ]
+    },
+    {
         "callsign": "CQH8667",
         "flight_no": "9C8667",
         "route_iata_full": "PVG-HKT",
@@ -1439,6 +1651,30 @@
         "legs": [
             {
                 "dep_iata": "HKT",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "CQH8755",
+        "flight_no": "9C8755",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-08T14:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CQH8756",
+        "flight_no": "9C8756",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-08T14:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
                 "arr_iata": "PVG"
             }
         ]
@@ -1700,6 +1936,54 @@
         "flight_no": "FM840",
         "route_iata_full": "BKK-PVG",
         "last_updated": "2024-11-26T13:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "CSH841",
+        "flight_no": "FM841",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-08T14:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CSH842",
+        "flight_no": "FM842",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-08T14:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "CSH847",
+        "flight_no": "FM847",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-08T15:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "CSH848",
+        "flight_no": "FM848",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-08T15:37:00Z",
         "legs": [
             {
                 "dep_iata": "BKK",
@@ -2332,6 +2616,54 @@
         ]
     },
     {
+        "callsign": "CTV8832",
+        "flight_no": "QG8832",
+        "route_iata_full": "CGK-KWL",
+        "last_updated": "2024-12-08T15:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGK",
+                "arr_iata": "KWL"
+            }
+        ]
+    },
+    {
+        "callsign": "CTV8833",
+        "flight_no": "QG8833",
+        "route_iata_full": "KWL-CGK",
+        "last_updated": "2024-12-08T15:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "KWL",
+                "arr_iata": "CGK"
+            }
+        ]
+    },
+    {
+        "callsign": "CTV8850",
+        "flight_no": "QG8850",
+        "route_iata_full": "CGK-CKG",
+        "last_updated": "2024-12-08T16:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGK",
+                "arr_iata": "CKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CTV8851",
+        "flight_no": "QG8851",
+        "route_iata_full": "CKG-CGK",
+        "last_updated": "2024-12-08T16:04:00Z",
+        "legs": [
+            {
+                "dep_iata": "CKG",
+                "arr_iata": "CGK"
+            }
+        ]
+    },
+    {
         "callsign": "CXA833",
         "flight_no": "MF833",
         "route_iata_full": "XMN-BKK",
@@ -2400,6 +2732,30 @@
             {
                 "dep_iata": "PNH",
                 "arr_iata": "XMN"
+            }
+        ]
+    },
+    {
+        "callsign": "CXA8669",
+        "flight_no": "MF8669",
+        "route_iata_full": "CKG-PNH",
+        "last_updated": "2024-12-08T14:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "CKG",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "CXA8670",
+        "flight_no": "MF8670",
+        "route_iata_full": "PNH-CKG",
+        "last_updated": "2024-12-08T14:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "CKG"
             }
         ]
     }
