@@ -1,5 +1,33 @@
 [
     {
+        "callsign": "NCA235",
+        "flight_no": "KZ235",
+        "route_iata_full": "NRT-SIN",
+        "last_updated": "2024-12-16T15:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "NCA254",
+        "flight_no": "KZ254",
+        "route_iata_full": "SIN-BKK-NRT",
+        "last_updated": "2024-12-16T15:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
         "callsign": "NOK320",
         "flight_no": "DD320",
         "route_iata_full": "DMK-UBP",
@@ -40,6 +68,30 @@
         "flight_no": "DD323",
         "route_iata_full": "UBP-DMK",
         "last_updated": "2024-11-25T03:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK324",
+        "flight_no": "DD324",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2024-12-16T15:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK325",
+        "flight_no": "DD325",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2024-12-16T15:14:00Z",
         "legs": [
             {
                 "dep_iata": "UBP",

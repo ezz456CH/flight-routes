@@ -156,6 +156,54 @@
         ]
     },
     {
+        "callsign": "MGL711",
+        "flight_no": "OM711",
+        "route_iata_full": "UBN-SGN",
+        "last_updated": "2024-12-16T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBN",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "MGL712",
+        "flight_no": "OM712",
+        "route_iata_full": "SGN-UBN",
+        "last_updated": "2024-12-16T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "UBN"
+            }
+        ]
+    },
+    {
+        "callsign": "MSR510",
+        "flight_no": "MS510",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-12-16T15:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "MSR511",
+        "flight_no": "MS511",
+        "route_iata_full": "BKK-CAI",
+        "last_updated": "2024-12-16T15:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CAI"
+            }
+        ]
+    },
+    {
         "callsign": "MXD571",
         "flight_no": "OD571",
         "route_iata_full": "KUL-HAN",

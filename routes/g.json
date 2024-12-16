@@ -56,6 +56,34 @@
         ]
     },
     {
+        "callsign": "GEC8474",
+        "flight_no": "LH8474",
+        "route_iata_full": "FRA-HKG",
+        "last_updated": "2024-12-16T14:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "FRA",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "GEC8475",
+        "flight_no": "LH8475",
+        "route_iata_full": "HKG-DWC-FRA",
+        "last_updated": "2024-12-16T14:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "FRA"
+            }
+        ]
+    },
+    {
         "callsign": "GEC8480",
         "flight_no": "LH8480",
         "route_iata_full": "FRA-TPE",

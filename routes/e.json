@@ -24,6 +24,30 @@
         ]
     },
     {
+        "callsign": "ESR581",
+        "flight_no": "ZE581",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2024-12-16T14:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "ESR582",
+        "flight_no": "ZE582",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-16T14:51:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "ETD440",
         "flight_no": "EY440",
         "route_iata_full": "AUH-MNL",
@@ -259,6 +283,54 @@
         "legs": [
             {
                 "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA217",
+        "flight_no": "BR217",
+        "route_iata_full": "TPE-KUL",
+        "last_updated": "2024-12-16T14:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA218",
+        "flight_no": "BR218",
+        "route_iata_full": "KUL-TPE",
+        "last_updated": "2024-12-16T14:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA265",
+        "flight_no": "BR265",
+        "route_iata_full": "TPE-PNH",
+        "last_updated": "2024-12-10T06:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA266",
+        "flight_no": "BR266",
+        "route_iata_full": "PNH-TPE",
+        "last_updated": "2024-12-10T06:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
                 "arr_iata": "TPE"
             }
         ]

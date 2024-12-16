@@ -52,6 +52,30 @@
         ]
     },
     {
+        "callsign": "DKH1357",
+        "flight_no": "HO1357",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2024-12-09T16:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "DKH1358",
+        "flight_no": "HO1358",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2024-12-09T16:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
         "callsign": "DKH1359",
         "flight_no": "HO1359",
         "route_iata_full": "PVG-DMK",

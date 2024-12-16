@@ -1,5 +1,29 @@
 [
     {
+        "callsign": "BAV272",
+        "flight_no": "QH272",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-09T15:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "BAV288",
+        "flight_no": "QH288",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-16T14:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "BKP805",
         "flight_no": "PG805",
         "route_iata_full": "USM-HKG",

@@ -28,6 +28,30 @@
         ]
     },
     {
+        "callsign": "AAR739",
+        "flight_no": "OZ739",
+        "route_iata_full": "ICN-PNH",
+        "last_updated": "2024-12-16T14:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "AAR740",
+        "flight_no": "OZ740",
+        "route_iata_full": "PNH-ICN",
+        "last_updated": "2024-12-16T14:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "AAR741",
         "flight_no": "OZ741",
         "route_iata_full": "ICN-BKK",
@@ -72,6 +96,22 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "ABD3562",
+        "flight_no": "CC3562",
+        "route_iata_full": "HKG-DWC-XCR",
+        "last_updated": "2024-12-16T14:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "XCR"
             }
         ]
     },
@@ -144,6 +184,30 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "YVR"
+            }
+        ]
+    },
+    {
+        "callsign": "AFR208",
+        "flight_no": "AF208",
+        "route_iata_full": "CDG-MNL",
+        "last_updated": "2024-12-16T14:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "CDG",
+                "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "AFR209",
+        "flight_no": "AF209",
+        "route_iata_full": "MNL-CDG",
+        "last_updated": "2024-12-16T14:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "MNL",
+                "arr_iata": "CDG"
             }
         ]
     },
@@ -1156,6 +1220,42 @@
         ]
     },
     {
+        "callsign": "ALK471",
+        "flight_no": "UL471",
+        "route_iata_full": "ICN-CMB",
+        "last_updated": "2024-12-16T14:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CMB"
+            }
+        ]
+    },
+    {
+        "callsign": "ALK880",
+        "flight_no": "UL880",
+        "route_iata_full": "CMB-CAN",
+        "last_updated": "2024-12-09T15:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "CMB",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "ALK881",
+        "flight_no": "UL881",
+        "route_iata_full": "CAN-CMB",
+        "last_updated": "2024-12-09T15:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "CMB"
+            }
+        ]
+    },
+    {
         "callsign": "AMU935",
         "flight_no": "NX935",
         "route_iata_full": "DMK-MFM",
@@ -1416,6 +1516,30 @@
             {
                 "dep_iata": "DMK",
                 "arr_iata": "MNL"
+            }
+        ]
+    },
+    {
+        "callsign": "APJ91",
+        "flight_no": "MM091",
+        "route_iata_full": "KIX-BKK",
+        "last_updated": "2024-12-09T15:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "APJ92",
+        "flight_no": "MM092",
+        "route_iata_full": "BKK-KIX",
+        "last_updated": "2024-12-09T15:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "KIX"
             }
         ]
     },

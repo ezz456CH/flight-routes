@@ -96,6 +96,18 @@
         ]
     },
     {
+        "callsign": "RMY7026",
+        "flight_no": "TH7026",
+        "route_iata_full": "BKI-NNG",
+        "last_updated": "2024-12-16T15:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKI",
+                "arr_iata": "NNG"
+            }
+        ]
+    },
+    {
         "callsign": "RMY8801",
         "flight_no": "TH8801",
         "route_iata_full": "KUL-NNG",

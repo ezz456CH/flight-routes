@@ -120,6 +120,30 @@
         ]
     },
     {
+        "callsign": "JAL753",
+        "flight_no": "JL753",
+        "route_iata_full": "NRT-BLR",
+        "last_updated": "2024-12-09T15:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BLR"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL754",
+        "flight_no": "JL754",
+        "route_iata_full": "BLR-NRT",
+        "last_updated": "2024-12-09T15:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "BLR",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
         "callsign": "JAL8155",
         "flight_no": "JL8155",
         "route_iata_full": "HND-SIN",
@@ -144,6 +168,30 @@
         ]
     },
     {
+        "callsign": "JJA2203",
+        "flight_no": "7C2203",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-09T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2204",
+        "flight_no": "7C2204",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-09T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "JJA2205",
         "flight_no": "7C2205",
         "route_iata_full": "ICN-BKK",
@@ -164,6 +212,30 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2251",
+        "flight_no": "7C2251",
+        "route_iata_full": "PUS-BKK",
+        "last_updated": "2024-12-09T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "PUS",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2252",
+        "flight_no": "7C2252",
+        "route_iata_full": "BKK-PUS",
+        "last_updated": "2024-12-09T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PUS"
             }
         ]
     },

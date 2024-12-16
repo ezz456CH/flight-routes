@@ -1,5 +1,17 @@
 [
     {
+        "callsign": "UAE3KV",
+        "flight_no": "EK338",
+        "route_iata_full": "CRK-DXB",
+        "last_updated": "2024-12-09T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "CRK",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
         "callsign": "UAE332",
         "flight_no": "EK332",
         "route_iata_full": "DXB-MNL",
@@ -68,6 +80,22 @@
             {
                 "dep_iata": "MNL",
                 "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE338",
+        "flight_no": "EK338",
+        "route_iata_full": "DXB-CEB-CRK",
+        "last_updated": "2024-12-09T14:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "CEB"
+            },
+            {
+                "dep_iata": "CEB",
+                "arr_iata": "CRK"
             }
         ]
     },
@@ -263,6 +291,18 @@
             },
             {
                 "dep_iata": "ANC",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "UPS145",
+        "flight_no": "5X145",
+        "route_iata_full": "BKK-SZX",
+        "last_updated": "2024-12-09T15:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
                 "arr_iata": "SZX"
             }
         ]

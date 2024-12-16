@@ -222,5 +222,29 @@
                 "arr_iata": "JED"
             }
         ]
+    },
+    {
+        "callsign": "SWM215",
+        "flight_no": "ZA215",
+        "route_iata_full": "PNH-ICN",
+        "last_updated": "2024-12-16T15:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "SWM216",
+        "flight_no": "ZA216",
+        "route_iata_full": "ICN-PNH",
+        "last_updated": "2024-12-16T15:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PNH"
+            }
+        ]
     }
 ]

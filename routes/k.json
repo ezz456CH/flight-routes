@@ -72,6 +72,30 @@
         ]
     },
     {
+        "callsign": "KAL653",
+        "flight_no": "KE653",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-09T15:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "KAL654",
+        "flight_no": "KE654",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-09T15:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "KAL657",
         "flight_no": "KE657",
         "route_iata_full": "ICN-BKK",
@@ -139,6 +163,30 @@
         "legs": [
             {
                 "dep_iata": "HKT",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "KAL689",
+        "flight_no": "KE689",
+        "route_iata_full": "ICN-PNH",
+        "last_updated": "2024-12-09T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "KAL690",
+        "flight_no": "KE690",
+        "route_iata_full": "PNH-ICN",
+        "last_updated": "2024-12-09T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
                 "arr_iata": "ICN"
             }
         ]
@@ -640,6 +688,38 @@
             {
                 "dep_iata": "HKG",
                 "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "KQA886",
+        "flight_no": "KQ886",
+        "route_iata_full": "NBO-BKK-CAN",
+        "last_updated": "2024-12-09T15:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "NBO",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "KQA887",
+        "flight_no": "KQ887",
+        "route_iata_full": "CAN-BKK-NBO",
+        "last_updated": "2024-12-09T15:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NBO"
             }
         ]
     },

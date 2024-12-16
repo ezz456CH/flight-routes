@@ -184,6 +184,30 @@
         ]
     },
     {
+        "callsign": "LNI2780",
+        "flight_no": "JT2780",
+        "route_iata_full": "SYX-CGK",
+        "last_updated": "2024-12-09T15:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "SYX",
+                "arr_iata": "CGK"
+            }
+        ]
+    },
+    {
+        "callsign": "LNI2781",
+        "flight_no": "JT2781",
+        "route_iata_full": "CGK-SYX",
+        "last_updated": "2024-12-09T15:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGK",
+                "arr_iata": "SYX"
+            }
+        ]
+    },
+    {
         "callsign": "LXW155",
         "flight_no": "LXW155",
         "route_iata_full": "VTE-PKZ",
