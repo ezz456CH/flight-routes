@@ -28,6 +28,54 @@
         ]
     },
     {
+        "callsign": "NOK310",
+        "flight_no": "DD310",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T16:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK311",
+        "flight_no": "DD311",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T16:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK313",
+        "flight_no": "DD313",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T16:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK314",
+        "flight_no": "DD314",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T16:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
         "callsign": "NOK320",
         "flight_no": "DD320",
         "route_iata_full": "DMK-UBP",
@@ -192,6 +240,30 @@
             {
                 "dep_iata": "SNO",
                 "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK702",
+        "flight_no": "DD702",
+        "route_iata_full": "CNX-UTH",
+        "last_updated": "2024-12-20T16:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "CNX",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK703",
+        "flight_no": "DD703",
+        "route_iata_full": "UTH-CNX",
+        "last_updated": "2024-12-20T16:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "CNX"
             }
         ]
     }

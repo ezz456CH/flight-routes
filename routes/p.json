@@ -144,6 +144,30 @@
         ]
     },
     {
+        "callsign": "PAL738",
+        "flight_no": "PR738",
+        "route_iata_full": "CEB-BKK",
+        "last_updated": "2024-12-20T16:08:00Z",
+        "legs": [
+            {
+                "dep_iata": "CEB",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "PAL739",
+        "flight_no": "PR739",
+        "route_iata_full": "BKK-CEB",
+        "last_updated": "2024-12-20T16:08:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CEB"
+            }
+        ]
+    },
+    {
         "callsign": "PIC6400",
         "flight_no": "BL6400",
         "route_iata_full": "PQC-HAN",

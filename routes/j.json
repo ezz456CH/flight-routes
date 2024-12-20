@@ -216,6 +216,18 @@
         ]
     },
     {
+        "callsign": "JJA2215",
+        "flight_no": "7C2215",
+        "route_iata_full": "MWX-BKK",
+        "last_updated": "2024-12-20T15:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "MWX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "JJA2251",
         "flight_no": "7C2251",
         "route_iata_full": "PUS-BKK",
@@ -236,6 +248,18 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "PUS"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA4104",
+        "flight_no": "7C4104",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-20T15:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
             }
         ]
     },

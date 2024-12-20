@@ -358,5 +358,21 @@
                 "arr_iata": "TPE"
             }
         ]
+    },
+    {
+        "callsign": "EVA6061",
+        "flight_no": "BR6061",
+        "route_iata_full": "TPE-SIN-HAN",
+        "last_updated": "2024-12-20T15:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "SIN"
+            },
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
     }
 ]

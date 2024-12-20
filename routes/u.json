@@ -204,6 +204,18 @@
         ]
     },
     {
+        "callsign": "UAE9825",
+        "flight_no": "EK9825",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2024-12-20T16:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
         "callsign": "UAE9928",
         "flight_no": "EK9928",
         "route_iata_full": "DWC-HKG",

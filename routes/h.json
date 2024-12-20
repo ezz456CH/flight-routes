@@ -72,6 +72,30 @@
         ]
     },
     {
+        "callsign": "HKC331",
+        "flight_no": "RH331",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2024-12-20T15:40:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "HKC332",
+        "flight_no": "RH332",
+        "route_iata_full": "BKK-HKG",
+        "last_updated": "2024-12-20T15:40:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
         "callsign": "HKE700",
         "flight_no": "UO700",
         "route_iata_full": "HKG-BKK",
@@ -288,10 +312,82 @@
         ]
     },
     {
+        "callsign": "HVN214",
+        "flight_no": "VN214",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN218",
+        "flight_no": "VN218",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN244",
+        "flight_no": "VN244",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN246",
+        "flight_no": "VN246",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "HVN256",
         "flight_no": "VN256",
         "route_iata_full": "SGN-HAN",
         "last_updated": "2024-12-09T16:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN258",
+        "flight_no": "VN258",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN262",
+        "flight_no": "VN262",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:44:00Z",
         "legs": [
             {
                 "dep_iata": "SGN",
@@ -464,6 +560,18 @@
             {
                 "dep_iata": "LPQ",
                 "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN1188",
+        "flight_no": "VN1188",
+        "route_iata_full": "SGN-HPH",
+        "last_updated": "2024-12-20T15:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HPH"
             }
         ]
     },

@@ -240,6 +240,78 @@
         ]
     },
     {
+        "callsign": "THA002",
+        "flight_no": "TG002",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "THA003",
+        "flight_no": "TG003",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA004",
+        "flight_no": "TG004",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "THA005",
+        "flight_no": "TG005",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA008",
+        "flight_no": "TG008",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:20:00",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "THA009",
+        "flight_no": "TG009",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:20:00",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "THA020",
         "flight_no": "TG020",
         "route_iata_full": "BKK-UBP",
@@ -283,6 +355,30 @@
         "legs": [
             {
                 "dep_iata": "UBP",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA588",
+        "flight_no": "TG588",
+        "route_iata_full": "BKK-SAI",
+        "last_updated": "2024-12-20T16:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "THA589",
+        "flight_no": "TG589",
+        "route_iata_full": "SAI-BKK",
+        "last_updated": "2024-12-20T16:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
                 "arr_iata": "BKK"
             }
         ]
@@ -1120,6 +1216,78 @@
         ]
     },
     {
+        "callsign": "TLM600",
+        "flight_no": "SL600",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T16:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM601",
+        "flight_no": "SL601",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T16:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM604",
+        "flight_no": "SL604",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T16:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM605",
+        "flight_no": "SL605",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T16:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM610",
+        "flight_no": "SL610",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T16:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM611",
+        "flight_no": "SL611",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T16:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "TLM620",
         "flight_no": "SL620",
         "route_iata_full": "DMK-UBP",
@@ -1288,6 +1456,78 @@
         ]
     },
     {
+        "callsign": "TVJ200",
+        "flight_no": "VZ200",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ201",
+        "flight_no": "VZ201",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ202",
+        "flight_no": "VZ202",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ203",
+        "flight_no": "VZ203",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ204",
+        "flight_no": "VZ204",
+        "route_iata_full": "BKK-UTH",
+        "last_updated": "2024-12-20T16:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ205",
+        "flight_no": "VZ205",
+        "route_iata_full": "UTH-BKK",
+        "last_updated": "2024-12-20T16:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "TVJ220",
         "flight_no": "VZ220",
         "route_iata_full": "BKK-UBP",
@@ -1415,6 +1655,38 @@
         "legs": [
             {
                 "dep_iata": "OKA",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ570",
+        "flight_no": "VZ570",
+        "route_iata_full": "BKK-TPE-CTS",
+        "last_updated": "2024-12-20T16:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "TPE"
+            },
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "CTS"
+            }
+        ]
+    },
+    {
+        "callsign": "TVJ571",
+        "flight_no": "VZ571",
+        "route_iata_full": "CTS-TPE-BKK",
+        "last_updated": "2024-12-20T16:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "CTS",
                 "arr_iata": "TPE"
             },
             {

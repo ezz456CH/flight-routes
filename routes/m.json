@@ -1,5 +1,65 @@
 [
     {
+        "callsign": "MAS52",
+        "flight_no": "MH052",
+        "route_iata_full": "KUL-KIX",
+        "last_updated": "2024-12-20T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS066",
+        "flight_no": "MH066",
+        "route_iata_full": "KUL-ICN",
+        "last_updated": "2024-12-20T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS70",
+        "flight_no": "MH070",
+        "route_iata_full": "KUL-NRT",
+        "last_updated": "2024-12-20T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS072",
+        "flight_no": "MH072",
+        "route_iata_full": "KUL-HKG",
+        "last_updated": "2024-12-20T15:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS073",
+        "flight_no": "MH073",
+        "route_iata_full": "HKG-KUL",
+        "last_updated": "2024-12-20T15:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
         "callsign": "MAS078",
         "flight_no": "MH078",
         "route_iata_full": "KUL-HKG",
@@ -48,6 +108,18 @@
         ]
     },
     {
+        "callsign": "MAS376",
+        "flight_no": "MH376",
+        "route_iata_full": "KUL-CAN",
+        "last_updated": "2024-12-20T16:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
         "callsign": "MAS386",
         "flight_no": "MH386",
         "route_iata_full": "KUL-PVG",
@@ -80,6 +152,34 @@
             {
                 "dep_iata": "KUL",
                 "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS390",
+        "flight_no": "MH390",
+        "route_iata_full": "KUL-XMN",
+        "last_updated": "2024-12-20T16:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "XMN"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS6108",
+        "flight_no": "MH6108",
+        "route_iata_full": "KUL-LBU-HKG",
+        "last_updated": "2024-12-20T15:58:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "LBU"
+            },
+            {
+                "dep_iata": "LBU",
+                "arr_iata": "HKG"
             }
         ]
     },
@@ -128,6 +228,18 @@
             {
                 "dep_iata": "PVG",
                 "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS6172",
+        "flight_no": "MH6172",
+        "route_iata_full": "KUL-PVG",
+        "last_updated": "2024-12-20T15:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "PVG"
             }
         ]
     },
@@ -296,6 +408,18 @@
             {
                 "dep_iata": "DYG",
                 "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "MXD690",
+        "flight_no": "OD690",
+        "route_iata_full": "JHB-HAK",
+        "last_updated": "2024-12-20T16:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "JHB",
+                "arr_iata": "HAK"
             }
         ]
     },

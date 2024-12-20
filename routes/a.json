@@ -100,6 +100,22 @@
         ]
     },
     {
+        "callsign": "AAR3831",
+        "flight_no": "OZ3831",
+        "route_iata_full": "ICN-SIN-HAN",
+        "last_updated": "2024-12-20T14:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SIN"
+            },
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "ABD3562",
         "flight_no": "CC3562",
         "route_iata_full": "HKG-DWC-XCR",
@@ -112,6 +128,22 @@
             {
                 "dep_iata": "DWC",
                 "arr_iata": "XCR"
+            }
+        ]
+    },
+    {
+        "callsign": "ABD4700",
+        "flight_no": "CC4700",
+        "route_iata_full": "HKG-DWC-LGG",
+        "last_updated": "2024-12-20T14:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "LGG"
             }
         ]
     },
@@ -500,6 +532,30 @@
         ]
     },
     {
+        "callsign": "AIQ610",
+        "flight_no": "FD610",
+        "route_iata_full": "DMK-SAI",
+        "last_updated": "2024-12-20T14:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ611",
+        "flight_no": "FD611",
+        "route_iata_full": "SAI-DMK",
+        "last_updated": "2024-12-20T14:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "AIQ618",
         "flight_no": "FD618",
         "route_iata_full": "DMK-SAI",
@@ -735,6 +791,150 @@
         "legs": [
             {
                 "dep_iata": "MFM",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3170",
+        "flight_no": "FD3170",
+        "route_iata_full": "HKT-UTH",
+        "last_updated": "2024-12-20T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3171",
+        "flight_no": "FD3171",
+        "route_iata_full": "UTH-HKT",
+        "last_updated": "2024-12-20T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3350",
+        "flight_no": "FD3350",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3351",
+        "flight_no": "FD3351",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T14:55:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3354",
+        "flight_no": "FD3354",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T14:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3355",
+        "flight_no": "FD3355",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T14:56:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3356",
+        "flight_no": "FD3356",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3357",
+        "flight_no": "FD3357",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3358",
+        "flight_no": "FD3358",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T14:58:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3359",
+        "flight_no": "FD3359",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T14:58:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3362",
+        "flight_no": "FD3362",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2024-12-20T14:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3363",
+        "flight_no": "FD3363",
+        "route_iata_full": "UTH-DMK",
+        "last_updated": "2024-12-20T14:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "UTH",
                 "arr_iata": "DMK"
             }
         ]
@@ -1659,6 +1859,30 @@
         "legs": [
             {
                 "dep_iata": "HAN",
+                "arr_iata": "KUL"
+            }
+        ]
+    },
+    {
+        "callsign": "AXM542",
+        "flight_no": "AK542",
+        "route_iata_full": "KUL-SAI",
+        "last_updated": "2024-12-20T15:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "AXM543",
+        "flight_no": "AK543",
+        "route_iata_full": "SAI-KUL",
+        "last_updated": "2024-12-20T15:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
                 "arr_iata": "KUL"
             }
         ]

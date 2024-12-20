@@ -24,6 +24,18 @@
         ]
     },
     {
+        "callsign": "KAL484",
+        "flight_no": "KE484",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-20T15:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "KAL485",
         "flight_no": "KE485",
         "route_iata_full": "ICN-PQC",
@@ -456,6 +468,18 @@
         ]
     },
     {
+        "callsign": "KME502",
+        "flight_no": "KR502",
+        "route_iata_full": "MFM-PNH",
+        "last_updated": "2024-12-20T15:48:00Z",
+        "legs": [
+            {
+                "dep_iata": "MFM",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
         "callsign": "KME503",
         "flight_no": "KR503",
         "route_iata_full": "PNH-MFM",
@@ -548,6 +572,18 @@
             {
                 "dep_iata": "CAN",
                 "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "KME941",
+        "flight_no": "KR941",
+        "route_iata_full": "PNH-CSX",
+        "last_updated": "2024-12-20T15:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "CSX"
             }
         ]
     },
@@ -724,6 +760,18 @@
         ]
     },
     {
+        "callsign": "KXP220",
+        "flight_no": "WW220",
+        "route_iata_full": "KUL-HAN",
+        "last_updated": "2024-12-20T15:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "KZR161",
         "flight_no": "KC161",
         "route_iata_full": "ALA-PQC",
@@ -744,6 +792,18 @@
             {
                 "dep_iata": "PQC",
                 "arr_iata": "ALA"
+            }
+        ]
+    },
+    {
+        "callsign": "KZR174",
+        "flight_no": "KC174",
+        "route_iata_full": "PQC-NQZ",
+        "last_updated": "2024-12-20T15:49:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "NQZ"
             }
         ]
     }

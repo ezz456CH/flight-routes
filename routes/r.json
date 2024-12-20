@@ -1,5 +1,29 @@
 [
     {
+        "callsign": "RBA1",
+        "flight_no": "BI001",
+        "route_iata_full": "BWN-JED",
+        "last_updated": "2024-12-20T16:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "BWN",
+                "arr_iata": "JED"
+            }
+        ]
+    },
+    {
+        "callsign": "RBA2",
+        "flight_no": "BI002",
+        "route_iata_full": "JED-BWN",
+        "last_updated": "2024-12-20T16:11:00Z",
+        "legs": [
+            {
+                "dep_iata": "JED",
+                "arr_iata": "BWN"
+            }
+        ]
+    },
+    {
         "callsign": "RMY861",
         "flight_no": "TH861",
         "route_iata_full": "KUL-CGO",

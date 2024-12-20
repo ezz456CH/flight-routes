@@ -48,6 +48,46 @@
         ]
     },
     {
+        "callsign": "SIA7436",
+        "flight_no": "SQ7436",
+        "route_iata_full": "SIN-BKK-ICN-CVG",
+        "last_updated": "2024-12-20T16:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            },
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CVG"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7440",
+        "flight_no": "SQ7440",
+        "route_iata_full": "SIN-BKK-ICN-CVG",
+        "last_updated": "2024-12-20T16:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            },
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CVG"
+            }
+        ]
+    },
+    {
         "callsign": "SIA7443",
         "flight_no": "SQ7443",
         "route_iata_full": "CVG-HNL-SYD-MEL-SIN",
@@ -243,6 +283,30 @@
         "legs": [
             {
                 "dep_iata": "ICN",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "SWM637",
+        "flight_no": "ZA637",
+        "route_iata_full": "PNH-CSX",
+        "last_updated": "2024-12-20T16:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "CSX"
+            }
+        ]
+    },
+    {
+        "callsign": "SWM638",
+        "flight_no": "ZA638",
+        "route_iata_full": "CSX-PNH",
+        "last_updated": "2024-12-20T16:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "CSX",
                 "arr_iata": "PNH"
             }
         ]

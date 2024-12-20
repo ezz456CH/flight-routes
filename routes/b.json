@@ -12,6 +12,18 @@
         ]
     },
     {
+        "callsign": "BAV276",
+        "flight_no": "QH276",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2024-12-20T15:03:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "BAV288",
         "flight_no": "QH288",
         "route_iata_full": "SGN-HAN",
@@ -88,6 +100,18 @@
         "flight_no": "PG908",
         "route_iata_full": "SAI-BKK",
         "last_updated": "2024-12-08T14:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "BKP924",
+        "flight_no": "PG924",
+        "route_iata_full": "SAI-BKK",
+        "last_updated": "2024-12-20T15:02:00Z",
         "legs": [
             {
                 "dep_iata": "SAI",
