@@ -36,6 +36,22 @@
         ]
     },
     {
+        "callsign": "BCS515",
+        "flight_no": "QY515",
+        "route_iata_full": "HKG-DXB-LEJ",
+        "last_updated": "2025-01-15T14:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DXB"
+            },
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "LEJ"
+            }
+        ]
+    },
+    {
         "callsign": "BKP805",
         "flight_no": "PG805",
         "route_iata_full": "USM-HKG",
@@ -116,6 +132,22 @@
             {
                 "dep_iata": "SAI",
                 "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "BOX586",
+        "flight_no": "3S586",
+        "route_iata_full": "LEJ-BKK-SZX",
+        "last_updated": "2025-01-15T14:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "LEJ",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SZX"
             }
         ]
     },

@@ -438,5 +438,17 @@
                 "arr_iata": "CAN"
             }
         ]
+    },
+    {
+        "callsign": "JYH1281",
+        "flight_no": "AQ1281",
+        "route_iata_full": "HAK-BKK",
+        "last_updated": "2025-01-15T15:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "BKK"
+            }
+        ]
     }
 ]

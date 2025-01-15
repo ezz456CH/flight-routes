@@ -1,0 +1,14 @@
+[
+    {
+        "callsign": "FFM3970",
+        "flight_no": "FY3970",
+        "route_iata_full": "KUL-HAK",
+        "last_updated": "2025-01-15T15:06:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "HAK"
+            }
+        ]
+    }
+]

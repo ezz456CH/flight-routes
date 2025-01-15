@@ -312,6 +312,18 @@
         ]
     },
     {
+        "callsign": "HVN212",
+        "flight_no": "VN212",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T15:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "HVN214",
         "flight_no": "VN214",
         "route_iata_full": "SGN-HAN",
@@ -336,6 +348,18 @@
         ]
     },
     {
+        "callsign": "HVN224",
+        "flight_no": "VN224",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T15:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "HVN244",
         "flight_no": "VN244",
         "route_iata_full": "SGN-HAN",
@@ -352,6 +376,18 @@
         "flight_no": "VN246",
         "route_iata_full": "SGN-HAN",
         "last_updated": "2024-12-20T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN254",
+        "flight_no": "VN254",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T15:28:00Z",
         "legs": [
             {
                 "dep_iata": "SGN",
@@ -396,6 +432,18 @@
         ]
     },
     {
+        "callsign": "HVN270",
+        "flight_no": "VN270",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T15:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "HVN660",
         "flight_no": "VN660",
         "route_iata_full": "SIN-HAN",
@@ -416,6 +464,18 @@
             {
                 "dep_iata": "HAN",
                 "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN814",
+        "flight_no": "VN814",
+        "route_iata_full": "SAI-SGN",
+        "last_updated": "2025-01-15T15:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "SGN"
             }
         ]
     },
@@ -644,6 +704,18 @@
             {
                 "dep_iata": "SGN",
                 "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "HVN7239",
+        "flight_no": "VN7239",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2025-01-15T15:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
             }
         ]
     }

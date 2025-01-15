@@ -84,6 +84,18 @@
         ]
     },
     {
+        "callsign": "MAS88",
+        "flight_no": "MH088",
+        "route_iata_full": "KUL-NRT",
+        "last_updated": "2025-01-15T15:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
         "callsign": "MAS366",
         "flight_no": "MH366",
         "route_iata_full": "KUL-TPE",
@@ -116,6 +128,18 @@
             {
                 "dep_iata": "KUL",
                 "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS377",
+        "flight_no": "MH377",
+        "route_iata_full": "CAN-KUL",
+        "last_updated": "2025-01-15T15:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "KUL"
             }
         ]
     },
@@ -164,6 +188,18 @@
             {
                 "dep_iata": "KUL",
                 "arr_iata": "XMN"
+            }
+        ]
+    },
+    {
+        "callsign": "MAS391",
+        "flight_no": "MH391",
+        "route_iata_full": "XMN-KUL",
+        "last_updated": "2025-01-15T15:39:00Z",
+        "legs": [
+            {
+                "dep_iata": "XMN",
+                "arr_iata": "KUL"
             }
         ]
     },
@@ -268,6 +304,18 @@
         ]
     },
     {
+        "callsign": "MAS6178",
+        "flight_no": "MH6178",
+        "route_iata_full": "KUL-CAN",
+        "last_updated": "2025-01-15T15:40:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
         "callsign": "MGL711",
         "flight_no": "OM711",
         "route_iata_full": "UBN-SGN",
@@ -287,6 +335,54 @@
         "legs": [
             {
                 "dep_iata": "SGN",
+                "arr_iata": "UBN"
+            }
+        ]
+    },
+    {
+        "callsign": "MGL713",
+        "flight_no": "OM713",
+        "route_iata_full": "UBN-SGN",
+        "last_updated": "2025-01-15T15:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBN",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "MGL714",
+        "flight_no": "OM714",
+        "route_iata_full": "SGN-UBN",
+        "last_updated": "2025-01-15T15:41:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "UBN"
+            }
+        ]
+    },
+    {
+        "callsign": "MNG8027",
+        "flight_no": "M08027",
+        "route_iata_full": "UBN-PQC",
+        "last_updated": "2025-01-15T15:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "MNG8028",
+        "flight_no": "M08028",
+        "route_iata_full": "PQC-UBN",
+        "last_updated": "2025-01-15T15:42:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
                 "arr_iata": "UBN"
             }
         ]

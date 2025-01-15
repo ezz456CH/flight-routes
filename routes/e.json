@@ -1,5 +1,29 @@
 [
     {
+        "callsign": "EOK561",
+        "flight_no": "RF561",
+        "route_iata_full": "ICN-PKZ",
+        "last_updated": "2025-01-15T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PKZ"
+            }
+        ]
+    },
+    {
+        "callsign": "EOK562",
+        "flight_no": "RF562",
+        "route_iata_full": "PKZ-ICN",
+        "last_updated": "2025-01-15T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKZ",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "ESR511",
         "flight_no": "ZE511",
         "route_iata_full": "ICN-BKK",
@@ -304,6 +328,18 @@
         "flight_no": "BR218",
         "route_iata_full": "KUL-TPE",
         "last_updated": "2024-12-16T14:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "TPE"
+            }
+        ]
+    },
+    {
+        "callsign": "EVA228",
+        "flight_no": "BR228",
+        "route_iata_full": "KUL-TPE",
+        "last_updated": "2025-01-15T15:06:00Z",
         "legs": [
             {
                 "dep_iata": "KUL",

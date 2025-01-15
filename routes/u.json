@@ -124,6 +124,18 @@
         ]
     },
     {
+        "callsign": "UAE381",
+        "flight_no": "EK381",
+        "route_iata_full": "HKG-DXB",
+        "last_updated": "2025-01-15T16:08:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
         "callsign": "UAE382",
         "flight_no": "EK382",
         "route_iata_full": "DXB-HKG",
@@ -180,6 +192,18 @@
         ]
     },
     {
+        "callsign": "UAE9283",
+        "flight_no": "EK9283",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2025-01-15T16:08:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
         "callsign": "UAE9784",
         "flight_no": "EK9784",
         "route_iata_full": "DWC-HKG",
@@ -204,10 +228,46 @@
         ]
     },
     {
+        "callsign": "UAE9787",
+        "flight_no": "EK9787",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2025-01-15T16:09:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
         "callsign": "UAE9825",
         "flight_no": "EK9825",
         "route_iata_full": "HKG-DWC",
         "last_updated": "2024-12-20T16:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9827",
+        "flight_no": "EK9827",
+        "route_iata_full": "HKG-DXB",
+        "last_updated": "2025-01-15T16:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9885",
+        "flight_no": "EK9885",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2025-01-15T16:11:00Z",
         "legs": [
             {
                 "dep_iata": "HKG",
@@ -268,6 +328,22 @@
             {
                 "dep_iata": "STN",
                 "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "UPS9",
+        "flight_no": "5X009",
+        "route_iata_full": "SZX-BLR-CGN",
+        "last_updated": "2025-01-15T16:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "SZX",
+                "arr_iata": "BLR"
+            },
+            {
+                "dep_iata": "BLR",
+                "arr_iata": "CGN"
             }
         ]
     },

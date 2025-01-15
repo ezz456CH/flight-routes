@@ -208,6 +208,30 @@
         ]
     },
     {
+        "callsign": "LXW151",
+        "flight_no": "LXW151",
+        "route_iata_full": "VTE-PKZ",
+        "last_updated": "2025-01-15T15:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "VTE",
+                "arr_iata": "PKZ"
+            }
+        ]
+    },
+    {
+        "callsign": "LXW152",
+        "flight_no": "LXW152",
+        "route_iata_full": "PKZ-VTE",
+        "last_updated": "2025-01-15T15:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKZ",
+                "arr_iata": "VTE"
+            }
+        ]
+    },
+    {
         "callsign": "LXW155",
         "flight_no": "LXW155",
         "route_iata_full": "VTE-PKZ",

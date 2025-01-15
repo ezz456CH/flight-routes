@@ -100,6 +100,30 @@
         ]
     },
     {
+        "callsign": "AAR751",
+        "flight_no": "OZ751",
+        "route_iata_full": "ICN-SIN",
+        "last_updated": "2025-01-15T14:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "AAR752",
+        "flight_no": "OZ752",
+        "route_iata_full": "SIN-ICN",
+        "last_updated": "2025-01-15T14:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "AAR3831",
         "flight_no": "OZ3831",
         "route_iata_full": "ICN-SIN-HAN",
@@ -116,6 +140,42 @@
         ]
     },
     {
+        "callsign": "AAR7271",
+        "flight_no": "OZ7271",
+        "route_iata_full": "ICN-SAI",
+        "last_updated": "2025-01-15T14:15:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "AAR7277",
+        "flight_no": "OZ7277",
+        "route_iata_full": "ICN-SAI",
+        "last_updated": "2025-01-15T14:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "AAR7281",
+        "flight_no": "OZ7281",
+        "route_iata_full": "SAI-ICN",
+        "last_updated": "2025-01-15T14:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
         "callsign": "ABD3562",
         "flight_no": "CC3562",
         "route_iata_full": "HKG-DWC-XCR",
@@ -128,6 +188,38 @@
             {
                 "dep_iata": "DWC",
                 "arr_iata": "XCR"
+            }
+        ]
+    },
+    {
+        "callsign": "ABD4100",
+        "flight_no": "CC4100",
+        "route_iata_full": "HKG-DWC-LGG",
+        "last_updated": "2025-01-15T14:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "LGG"
+            }
+        ]
+    },
+    {
+        "callsign": "ABD4200",
+        "flight_no": "CC4200",
+        "route_iata_full": "HKG-DWC-LGG",
+        "last_updated": "2025-01-15T14:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
+            },
+            {
+                "dep_iata": "DWC",
+                "arr_iata": "LGG"
             }
         ]
     },
@@ -556,6 +648,30 @@
         ]
     },
     {
+        "callsign": "AIQ614",
+        "flight_no": "FD614",
+        "route_iata_full": "DMK-SAI",
+        "last_updated": "2025-01-15T14:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "SAI"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ615",
+        "flight_no": "FD615",
+        "route_iata_full": "SAI-DMK",
+        "last_updated": "2025-01-15T14:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "AIQ618",
         "flight_no": "FD618",
         "route_iata_full": "DMK-SAI",
@@ -816,6 +932,18 @@
             {
                 "dep_iata": "UTH",
                 "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ3342",
+        "flight_no": "FD3342",
+        "route_iata_full": "DMK-KOP",
+        "last_updated": "2025-01-15T14:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "KOP"
             }
         ]
     },
@@ -1319,6 +1447,30 @@
         "legs": [
             {
                 "dep_iata": "ROI",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ8370",
+        "flight_no": "FD8370",
+        "route_iata_full": "DMK-UBP",
+        "last_updated": "2025-01-15T14:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UBP"
+            }
+        ]
+    },
+    {
+        "callsign": "AIQ8371",
+        "flight_no": "FD8371",
+        "route_iata_full": "UBP-DMK",
+        "last_updated": "2025-01-15T14:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "UBP",
                 "arr_iata": "DMK"
             }
         ]

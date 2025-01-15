@@ -24,6 +24,30 @@
         ]
     },
     {
+        "callsign": "KAL385",
+        "flight_no": "KE385",
+        "route_iata_full": "ICN-SIN",
+        "last_updated": "2025-01-15T15:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "KAL483",
+        "flight_no": "KE483",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2025-01-15T15:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
         "callsign": "KAL484",
         "flight_no": "KE484",
         "route_iata_full": "PQC-ICN",
@@ -276,6 +300,18 @@
         ]
     },
     {
+        "callsign": "KHV131",
+        "flight_no": "K6131",
+        "route_iata_full": "SAI-KOS",
+        "last_updated": "2025-01-15T15:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "KOS"
+            }
+        ]
+    },
+    {
         "callsign": "KHV610",
         "flight_no": "K6610",
         "route_iata_full": "PNH-CAN",
@@ -344,6 +380,18 @@
             {
                 "dep_iata": "HKG",
                 "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "KHV828",
+        "flight_no": "K6828",
+        "route_iata_full": "SAI-SGN",
+        "last_updated": "2025-01-15T15:33:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "SGN"
             }
         ]
     },
@@ -552,6 +600,18 @@
         ]
     },
     {
+        "callsign": "KME931",
+        "flight_no": "KR931",
+        "route_iata_full": "PNH-SWA",
+        "last_updated": "2025-01-15T15:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "SWA"
+            }
+        ]
+    },
+    {
         "callsign": "KME937",
         "flight_no": "KR937",
         "route_iata_full": "PNH-CAN",
@@ -584,6 +644,18 @@
             {
                 "dep_iata": "PNH",
                 "arr_iata": "CSX"
+            }
+        ]
+    },
+    {
+        "callsign": "KME942",
+        "flight_no": "KR942",
+        "route_iata_full": "CSX-PNH",
+        "last_updated": "2025-01-15T15:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "CSX",
+                "arr_iata": "PNH"
             }
         ]
     },
@@ -632,6 +704,22 @@
             {
                 "dep_iata": "CKG",
                 "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "KME9737",
+        "flight_no": "KR9737",
+        "route_iata_full": "PNH-HAK-CXR",
+        "last_updated": "2025-01-15T15:35:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "HAK"
+            },
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "CXR"
             }
         ]
     },
@@ -768,6 +856,18 @@
             {
                 "dep_iata": "KUL",
                 "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "KXP221",
+        "flight_no": "WW221",
+        "route_iata_full": "HAN-KUL",
+        "last_updated": "2025-01-15T15:36:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "KUL"
             }
         ]
     },

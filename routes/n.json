@@ -28,6 +28,30 @@
         ]
     },
     {
+        "callsign": "NCA262",
+        "flight_no": "KZ262",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2025-01-15T15:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "NOK306",
+        "flight_no": "DD306",
+        "route_iata_full": "DMK-UTH",
+        "last_updated": "2025-01-15T15:43:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "UTH"
+            }
+        ]
+    },
+    {
         "callsign": "NOK310",
         "flight_no": "DD310",
         "route_iata_full": "DMK-UTH",

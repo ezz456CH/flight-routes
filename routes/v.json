@@ -1,5 +1,17 @@
 [
     {
+        "callsign": "VAG794",
+        "flight_no": "VU794",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T16:17:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "VJC63",
         "flight_no": "VJ063",
         "route_iata_full": "PQC-NQZ",
@@ -43,6 +55,18 @@
         "legs": [
             {
                 "dep_iata": "MEL",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC124",
+        "flight_no": "VJ124",
+        "route_iata_full": "SGN-HAN",
+        "last_updated": "2025-01-15T16:18:00Z",
+        "legs": [
+            {
+                "dep_iata": "SGN",
                 "arr_iata": "HAN"
             }
         ]
@@ -216,6 +240,18 @@
         ]
     },
     {
+        "callsign": "VJC804",
+        "flight_no": "VJ804",
+        "route_iata_full": "BKK-SGN",
+        "last_updated": "2025-01-15T16:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
         "callsign": "VJC844",
         "flight_no": "VJ844",
         "route_iata_full": "PQC-TPE",
@@ -236,6 +272,18 @@
             {
                 "dep_iata": "TPE",
                 "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC904",
+        "flight_no": "VJ904",
+        "route_iata_full": "BKK-HAN",
+        "last_updated": "2025-01-15T16:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HAN"
             }
         ]
     },
@@ -332,6 +380,30 @@
             {
                 "dep_iata": "HAN",
                 "arr_iata": "CGK"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC950",
+        "flight_no": "VJ950",
+        "route_iata_full": "PQC-HKG",
+        "last_updated": "2025-01-15T16:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "VJC951",
+        "flight_no": "VJ951",
+        "route_iata_full": "HKG-PQC",
+        "last_updated": "2025-01-15T16:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "PQC"
             }
         ]
     },
@@ -516,6 +588,18 @@
         ]
     },
     {
+        "callsign": "VJC1451",
+        "flight_no": "VJ1451",
+        "route_iata_full": "HAN-PQC",
+        "last_updated": "2025-01-15T16:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
         "callsign": "VJC1453",
         "flight_no": "VJ1453",
         "route_iata_full": "HAN-PQC",
@@ -672,6 +756,18 @@
         ]
     },
     {
+        "callsign": "VSV5317",
+        "flight_no": "DV5317",
+        "route_iata_full": "PQC-ALA",
+        "last_updated": "2025-01-15T16:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ALA"
+            }
+        ]
+    },
+    {
         "callsign": "VSV5318",
         "flight_no": "DV5318",
         "route_iata_full": "ALA-PQC",
@@ -688,6 +784,18 @@
         "flight_no": "DV5319",
         "route_iata_full": "PQC-ALA",
         "last_updated": "2024-12-08T08:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ALA"
+            }
+        ]
+    },
+    {
+        "callsign": "VSV5321",
+        "flight_no": "DV5321",
+        "route_iata_full": "PQC-ALA",
+        "last_updated": "2025-01-15T16:23:00Z",
         "legs": [
             {
                 "dep_iata": "PQC",
