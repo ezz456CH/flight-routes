@@ -252,6 +252,18 @@
         ]
     },
     {
+        "callsign": "TGW300",
+        "flight_no": "TR300",
+        "route_iata_full": "SIN-HAN",
+        "last_updated": "2025-03-02T08:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
         "callsign": "THA002",
         "flight_no": "TG002",
         "route_iata_full": "BKK-UTH",
@@ -368,6 +380,42 @@
             {
                 "dep_iata": "UBP",
                 "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA472",
+        "flight_no": "TG472",
+        "route_iata_full": "SYD-BKK",
+        "last_updated": "2025-03-02T08:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "SYD",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "THA550",
+        "flight_no": "TG550",
+        "route_iata_full": "BKK-SGN",
+        "last_updated": "2025-03-02T08:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
+        "callsign": "THA556",
+        "flight_no": "TG556",
+        "route_iata_full": "BKK-SGN",
+        "last_updated": "2025-03-02T08:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SGN"
             }
         ]
     },
@@ -924,6 +972,18 @@
         ]
     },
     {
+        "callsign": "THA667",
+        "flight_no": "TG667",
+        "route_iata_full": "PVG-BKK",
+        "last_updated": "2025-03-02T08:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "THA668",
         "flight_no": "TG668",
         "route_iata_full": "BKK-CAN",
@@ -1064,6 +1124,18 @@
             {
                 "dep_iata": "MNL",
                 "arr_iata": "IST"
+            }
+        ]
+    },
+    {
+        "callsign": "THY162",
+        "flight_no": "TK162",
+        "route_iata_full": "IST-SGN",
+        "last_updated": "2025-03-02T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "IST",
+                "arr_iata": "SGN"
             }
         ]
     },
@@ -1396,6 +1468,18 @@
         ]
     },
     {
+        "callsign": "TLM921",
+        "flight_no": "SL921",
+        "route_iata_full": "HGH-DMK",
+        "last_updated": "2025-03-02T08:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "HGH",
+                "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
         "callsign": "TLM926",
         "flight_no": "SL926",
         "route_iata_full": "DMK-PVG",
@@ -1492,6 +1576,18 @@
         ]
     },
     {
+        "callsign": "TLM7311",
+        "flight_no": "SL7311",
+        "route_iata_full": "TPE-URT",
+        "last_updated": "2025-03-02T08:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "TPE",
+                "arr_iata": "URT"
+            }
+        ]
+    },
+    {
         "callsign": "TLM7314",
         "flight_no": "SL7314",
         "route_iata_full": "DMK-TPE",
@@ -1512,6 +1608,30 @@
             {
                 "dep_iata": "TPE",
                 "arr_iata": "DMK"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM7316",
+        "flight_no": "SL7316",
+        "route_iata_full": "HKT-RMQ",
+        "last_updated": "2025-03-02T08:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "RMQ"
+            }
+        ]
+    },
+    {
+        "callsign": "TLM7320",
+        "flight_no": "SL7320",
+        "route_iata_full": "DMK-TPE",
+        "last_updated": "2025-03-02T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "DMK",
+                "arr_iata": "TPE"
             }
         ]
     },
@@ -2056,6 +2176,18 @@
         ]
     },
     {
+        "callsign": "TVJ3721",
+        "flight_no": "VZ3721",
+        "route_iata_full": "CAN-BKK",
+        "last_updated": "2025-03-02T08:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "TWB101",
         "flight_no": "TW101",
         "route_iata_full": "ICN-BKK",
@@ -2120,6 +2252,30 @@
         "flight_no": "ZG052",
         "route_iata_full": "BKK-NRT",
         "last_updated": "2024-11-25T18:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "TZP55",
+        "flight_no": "ZG055",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2025-03-02T08:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "TZP56",
+        "flight_no": "ZG056",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2025-03-02T08:30:00Z",
         "legs": [
             {
                 "dep_iata": "BKK",

@@ -1,5 +1,33 @@
 [
     {
+        "callsign": "FDX5419",
+        "flight_no": "FX5419",
+        "route_iata_full": "CAN-SIN",
+        "last_updated": "2025-03-02T07:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "FDX6159",
+        "flight_no": "FX6159",
+        "route_iata_full": "CAN-BKK-PEN",
+        "last_updated": "2025-03-02T07:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PEN"
+            }
+        ]
+    },
+    {
         "callsign": "FFM3970",
         "flight_no": "FY3970",
         "route_iata_full": "KUL-HAK",

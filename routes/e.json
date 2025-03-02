@@ -410,5 +410,17 @@
                 "arr_iata": "HAN"
             }
         ]
+    },
+    {
+        "callsign": "EVA6070",
+        "flight_no": "BR6070",
+        "route_iata_full": "PEN-TPE",
+        "last_updated": "2025-03-02T07:34:00Z",
+        "legs": [
+            {
+                "dep_iata": "PEN",
+                "arr_iata": "TPE"
+            }
+        ]
     }
 ]

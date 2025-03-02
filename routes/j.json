@@ -48,6 +48,18 @@
         ]
     },
     {
+        "callsign": "JAL39",
+        "flight_no": "JL039",
+        "route_iata_full": "HND-DEL",
+        "last_updated": "2025-03-02T07:58:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "DEL"
+            }
+        ]
+    },
+    {
         "callsign": "JAL50",
         "flight_no": "JL050",
         "route_iata_full": "DOH-HND",
@@ -380,6 +392,18 @@
             {
                 "dep_iata": "HAK",
                 "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "JST65",
+        "flight_no": "JQ065",
+        "route_iata_full": "BNE-BKK",
+        "last_updated": "2025-03-02T07:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "BNE",
+                "arr_iata": "BKK"
             }
         ]
     },

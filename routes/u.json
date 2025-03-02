@@ -100,6 +100,18 @@
         ]
     },
     {
+        "callsign": "UAE364",
+        "flight_no": "EK364",
+        "route_iata_full": "DXB-SGN",
+        "last_updated": "2025-03-02T08:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "DXB",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
         "callsign": "UAE366",
         "flight_no": "EK366",
         "route_iata_full": "DXB-TPE",
@@ -260,6 +272,18 @@
             {
                 "dep_iata": "HKG",
                 "arr_iata": "DXB"
+            }
+        ]
+    },
+    {
+        "callsign": "UAE9833",
+        "flight_no": "EK9833",
+        "route_iata_full": "HKG-DWC",
+        "last_updated": "2025-03-02T08:33:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "DWC"
             }
         ]
     },

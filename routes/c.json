@@ -332,6 +332,18 @@
         ]
     },
     {
+        "callsign": "CBJ613",
+        "flight_no": "JD613",
+        "route_iata_full": "BKK-PVG",
+        "last_updated": "2025-03-02T07:21:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
         "callsign": "CBJ619",
         "flight_no": "JD619",
         "route_iata_full": "NKG-BKK",
@@ -428,6 +440,18 @@
         ]
     },
     {
+        "callsign": "CCA798",
+        "flight_no": "CA798",
+        "route_iata_full": "HKT-PEK",
+        "last_updated": "2025-03-02T07:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "PEK"
+            }
+        ]
+    },
+    {
         "callsign": "CCA805",
         "flight_no": "CA805",
         "route_iata_full": "PVG-BKK",
@@ -459,6 +483,18 @@
         "legs": [
             {
                 "dep_iata": "PEK",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "CCA868",
+        "flight_no": "CA868",
+        "route_iata_full": "JNB-SZX",
+        "last_updated": "2025-03-02T07:22:00Z",
+        "legs": [
+            {
+                "dep_iata": "JNB",
                 "arr_iata": "SZX"
             }
         ]
@@ -956,6 +992,30 @@
         ]
     },
     {
+        "callsign": "CES2070",
+        "flight_no": "MU2070",
+        "route_iata_full": "SIN-XIY",
+        "last_updated": "2025-03-02T07:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "XIY"
+            }
+        ]
+    },
+    {
+        "callsign": "CES2071",
+        "flight_no": "MU2071",
+        "route_iata_full": "PKX-BKK",
+        "last_updated": "2025-03-02T07:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
         "callsign": "CES2803",
         "flight_no": "MU2803",
         "route_iata_full": "NKG-BKK",
@@ -980,6 +1040,30 @@
         ]
     },
     {
+        "callsign": "CES2814",
+        "flight_no": "MU2814",
+        "route_iata_full": "HKT-NKG",
+        "last_updated": "2025-03-02T07:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "NKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CES2970",
+        "flight_no": "MU2970",
+        "route_iata_full": "KUL-NKG",
+        "last_updated": "2025-03-02T07:24:00Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "NKG"
+            }
+        ]
+    },
+    {
         "callsign": "CES5081",
         "flight_no": "MU5081",
         "route_iata_full": "KMG-SIN",
@@ -1000,6 +1084,18 @@
             {
                 "dep_iata": "SIN",
                 "arr_iata": "KMG"
+            }
+        ]
+    },
+    {
+        "callsign": "CES7269",
+        "flight_no": "MU7269",
+        "route_iata_full": "PKX-PQC",
+        "last_updated": "2025-03-02T07:25:00Z",
+        "legs": [
+            {
+                "dep_iata": "PKX",
+                "arr_iata": "PQC"
             }
         ]
     },
@@ -1196,6 +1292,18 @@
             {
                 "dep_iata": "SIN",
                 "arr_iata": "HAK"
+            }
+        ]
+    },
+    {
+        "callsign": "CHH7929",
+        "flight_no": "HU7929",
+        "route_iata_full": "PEK-HKT",
+        "last_updated": "2025-03-02T07:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "PEK",
+                "arr_iata": "HKT"
             }
         ]
     },
@@ -1816,6 +1924,18 @@
         ]
     },
     {
+        "callsign": "CQH7019",
+        "flight_no": "9C7019",
+        "route_iata_full": "TFU-PNH",
+        "last_updated": "2025-03-02T07:27:00Z",
+        "legs": [
+            {
+                "dep_iata": "TFU",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
         "callsign": "CQH7301",
         "flight_no": "9C7301",
         "route_iata_full": "FOC-BKK",
@@ -1944,6 +2064,18 @@
         ]
     },
     {
+        "callsign": "CQH8521",
+        "flight_no": "9C8521",
+        "route_iata_full": "PVG-HKT",
+        "last_updated": "2025-03-02T07:28:00Z",
+        "legs": [
+            {
+                "dep_iata": "PVG",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
         "callsign": "CQH8522",
         "flight_no": "9C8522",
         "route_iata_full": "HKT-PVG",
@@ -1984,6 +2116,18 @@
             {
                 "dep_iata": "PVG",
                 "arr_iata": "HRB"
+            }
+        ]
+    },
+    {
+        "callsign": "CQH8666",
+        "flight_no": "9C8666",
+        "route_iata_full": "HKT-PVG",
+        "last_updated": "2025-03-02T07:29:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "PVG"
             }
         ]
     },
@@ -2084,6 +2228,18 @@
         ]
     },
     {
+        "callsign": "CQH8972",
+        "flight_no": "9C8972",
+        "route_iata_full": "HKT-PVG",
+        "last_updated": "2025-03-02T07:31:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "PVG"
+            }
+        ]
+    },
+    {
         "callsign": "CRK741",
         "flight_no": "HX741",
         "route_iata_full": "HKG-HKT",
@@ -2152,6 +2308,18 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "HKG"
+            }
+        ]
+    },
+    {
+        "callsign": "CRK767",
+        "flight_no": "HX767",
+        "route_iata_full": "HKG-BKK",
+        "last_updated": "2025-03-02T07:32:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKG",
+                "arr_iata": "BKK"
             }
         ]
     },
@@ -3088,6 +3256,18 @@
             {
                 "dep_iata": "SZX",
                 "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "CSZ158",
+        "flight_no": "ZH158",
+        "route_iata_full": "PNH-SZX",
+        "last_updated": "2025-03-02T07:33:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "SZX"
             }
         ]
     },

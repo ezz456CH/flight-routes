@@ -1,5 +1,29 @@
 [
     {
+        "callsign": "SEU2297",
+        "flight_no": "U52297",
+        "route_iata_full": "WAW-CXR",
+        "last_updated": "2025-03-02T08:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "WAW",
+                "arr_iata": "CXR"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA163",
+        "flight_no": "SQ163",
+        "route_iata_full": "SAI-SIN",
+        "last_updated": "2025-03-02T08:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
         "callsign": "SIA191",
         "flight_no": "SQ191",
         "route_iata_full": "HAN-SIN",
@@ -8,6 +32,18 @@
             {
                 "dep_iata": "HAN",
                 "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA192",
+        "flight_no": "SQ192",
+        "route_iata_full": "SIN-HAN",
+        "last_updated": "2025-03-02T08:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAN"
             }
         ]
     },
@@ -36,6 +72,18 @@
         ]
     },
     {
+        "callsign": "SIA800",
+        "flight_no": "SQ800",
+        "route_iata_full": "SIN-PEK",
+        "last_updated": "2025-03-02T08:14:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "PEK"
+            }
+        ]
+    },
+    {
         "callsign": "SIA801",
         "flight_no": "SQ801",
         "route_iata_full": "PEK-SIN",
@@ -56,6 +104,26 @@
             {
                 "dep_iata": "SIN",
                 "arr_iata": "PEK"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7430",
+        "flight_no": "SQ7430",
+        "route_iata_full": "SIN-BKK-ICN-CVG",
+        "last_updated": "2025-03-02T08:13:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            },
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CVG"
             }
         ]
     },
@@ -84,6 +152,26 @@
         "flight_no": "SQ7440",
         "route_iata_full": "SIN-BKK-ICN-CVG",
         "last_updated": "2024-12-20T16:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "BKK"
+            },
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            },
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "CVG"
+            }
+        ]
+    },
+    {
+        "callsign": "SIA7442",
+        "flight_no": "SQ7442",
+        "route_iata_full": "SIN-BKK-ICN-CVG",
+        "last_updated": "2025-03-02T08:16:00Z",
         "legs": [
             {
                 "dep_iata": "SIN",
@@ -396,6 +484,30 @@
             {
                 "dep_iata": "CSX",
                 "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "SWM2119",
+        "flight_no": "ZA2119",
+        "route_iata_full": "SAI-ICN",
+        "last_updated": "2025-03-02T08:19:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "SWM2129",
+        "flight_no": "ZA2129",
+        "route_iata_full": "ICN-SAI",
+        "last_updated": "2025-03-02T08:20:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "SAI"
             }
         ]
     }

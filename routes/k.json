@@ -384,6 +384,18 @@
         ]
     },
     {
+        "callsign": "KHV808",
+        "flight_no": "K6808",
+        "route_iata_full": "SAI-SGN",
+        "last_updated": "2025-03-02T08:00:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "SGN"
+            }
+        ]
+    },
+    {
         "callsign": "KHV828",
         "flight_no": "K6828",
         "route_iata_full": "SAI-SGN",
@@ -844,6 +856,54 @@
             {
                 "dep_iata": "BKK",
                 "arr_iata": "NBO"
+            }
+        ]
+    },
+    {
+        "callsign": "KTC103",
+        "flight_no": "KT103",
+        "route_iata_full": "SAI-PNH",
+        "last_updated": "2025-03-02T08:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "PNH"
+            }
+        ]
+    },
+    {
+        "callsign": "KTC320",
+        "flight_no": "KT320",
+        "route_iata_full": "SAI-SIN",
+        "last_updated": "2025-03-02T08:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "SAI",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "KTC620",
+        "flight_no": "KT620",
+        "route_iata_full": "PNH-HAN",
+        "last_updated": "2025-03-02T08:01:00Z",
+        "legs": [
+            {
+                "dep_iata": "PNH",
+                "arr_iata": "HAN"
+            }
+        ]
+    },
+    {
+        "callsign": "KTC621",
+        "flight_no": "KT621",
+        "route_iata_full": "HAN-PNH",
+        "last_updated": "2025-03-02T08:02:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAN",
+                "arr_iata": "PNH"
             }
         ]
     },
