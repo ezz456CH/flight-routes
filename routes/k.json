@@ -1,970 +1,1078 @@
 [
-    {
-        "callsign": "KAC417",
-        "flight_no": "KU417",
-        "route_iata_full": "KWI-MNL",
-        "last_updated": "2024-11-26T06:13:00Z",
-        "legs": [
-            {
-                "dep_iata": "KWI",
-                "arr_iata": "MNL"
-            }
-        ]
-    },
-    {
-        "callsign": "KAC418",
-        "flight_no": "KU418",
-        "route_iata_full": "MNL-KWI",
-        "last_updated": "2024-11-26T06:13:00Z",
-        "legs": [
-            {
-                "dep_iata": "MNL",
-                "arr_iata": "KWI"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL385",
-        "flight_no": "KE385",
-        "route_iata_full": "ICN-SIN",
-        "last_updated": "2025-01-15T15:32:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "SIN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL483",
-        "flight_no": "KE483",
-        "route_iata_full": "ICN-PQC",
-        "last_updated": "2025-01-15T15:32:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL484",
-        "flight_no": "KE484",
-        "route_iata_full": "PQC-ICN",
-        "last_updated": "2024-12-20T15:48:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL485",
-        "flight_no": "KE485",
-        "route_iata_full": "ICN-PQC",
-        "last_updated": "2024-11-30T13:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL486",
-        "flight_no": "KE486",
-        "route_iata_full": "PQC-ICN",
-        "last_updated": "2024-11-30T13:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL651",
-        "flight_no": "KE651",
-        "route_iata_full": "ICN-BKK",
-        "last_updated": "2024-11-26T13:59:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL652",
-        "flight_no": "KE652",
-        "route_iata_full": "BKK-ICN",
-        "last_updated": "2024-11-26T13:59:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL653",
-        "flight_no": "KE653",
-        "route_iata_full": "ICN-BKK",
-        "last_updated": "2024-12-09T15:14:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL654",
-        "flight_no": "KE654",
-        "route_iata_full": "BKK-ICN",
-        "last_updated": "2024-12-09T15:14:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL657",
-        "flight_no": "KE657",
-        "route_iata_full": "ICN-BKK",
-        "last_updated": "2024-11-28T15:17:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL658",
-        "flight_no": "KE658",
-        "route_iata_full": "BKK-ICN",
-        "last_updated": "2024-11-28T15:17:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL659",
-        "flight_no": "KE659",
-        "route_iata_full": "ICN-BKK",
-        "last_updated": "2024-11-27T07:22:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL660",
-        "flight_no": "KE660",
-        "route_iata_full": "BKK-ICN",
-        "last_updated": "2024-11-27T07:22:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL663",
-        "flight_no": "KE663",
-        "route_iata_full": "ICN-HKT",
-        "last_updated": "2024-11-25T18:29:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "HKT"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL664",
-        "flight_no": "KE664",
-        "route_iata_full": "HKT-ICN",
-        "last_updated": "2024-11-25T18:29:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKT",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL689",
-        "flight_no": "KE689",
-        "route_iata_full": "ICN-PNH",
-        "last_updated": "2024-12-09T14:55:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL690",
-        "flight_no": "KE690",
-        "route_iata_full": "PNH-ICN",
-        "last_updated": "2024-12-09T14:55:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL2001",
-        "flight_no": "KE2001",
-        "route_iata_full": "PUS-BKK",
-        "last_updated": "2024-12-01T16:12:00Z",
-        "legs": [
-            {
-                "dep_iata": "PUS",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL2002",
-        "flight_no": "KE2002",
-        "route_iata_full": "BKK-PUS",
-        "last_updated": "2024-12-01T16:12:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "PUS"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL9481",
-        "flight_no": "KE9481",
-        "route_iata_full": "ICN-PQC",
-        "last_updated": "2024-11-29T06:52:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL9482",
-        "flight_no": "KE9482",
-        "route_iata_full": "PQC-ICN",
-        "last_updated": "2024-11-29T06:52:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL9487",
-        "flight_no": "KE9487",
-        "route_iata_full": "ICN-PQC",
-        "last_updated": "2024-12-03T17:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "ICN",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "KAL9488",
-        "flight_no": "KE9488",
-        "route_iata_full": "PQC-ICN",
-        "last_updated": "2024-12-03T17:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV131",
-        "flight_no": "K6131",
-        "route_iata_full": "SAI-KOS",
-        "last_updated": "2025-01-15T15:32:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "KOS"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV610",
-        "flight_no": "K6610",
-        "route_iata_full": "PNH-CAN",
-        "last_updated": "2024-12-01T18:42:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV611",
-        "flight_no": "K6611",
-        "route_iata_full": "CAN-PNH",
-        "last_updated": "2024-12-01T18:42:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV668",
-        "flight_no": "K6668",
-        "route_iata_full": "PNH-CAN",
-        "last_updated": "2024-11-27T08:17:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV669",
-        "flight_no": "K6669",
-        "route_iata_full": "CAN-PNH",
-        "last_updated": "2024-11-27T08:17:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV680",
-        "flight_no": "K6680",
-        "route_iata_full": "PNH-HKG",
-        "last_updated": "2024-11-29T11:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV681",
-        "flight_no": "K6681",
-        "route_iata_full": "HKG-PNH",
-        "last_updated": "2024-11-29T11:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV808",
-        "flight_no": "K6808",
-        "route_iata_full": "SAI-SGN",
-        "last_updated": "2025-03-02T08:00:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "SGN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV828",
-        "flight_no": "K6828",
-        "route_iata_full": "SAI-SGN",
-        "last_updated": "2025-01-15T15:33:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "SGN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV840",
-        "flight_no": "K6840",
-        "route_iata_full": "SAI-DAD",
-        "last_updated": "2024-11-29T07:47:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "DAD"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV841",
-        "flight_no": "K6841",
-        "route_iata_full": "DAD-SAI",
-        "last_updated": "2024-11-29T07:47:00Z",
-        "legs": [
-            {
-                "dep_iata": "DAD",
-                "arr_iata": "SAI"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV850",
-        "flight_no": "K6850",
-        "route_iata_full": "PNH-HAN",
-        "last_updated": "2024-11-26T13:30:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "HAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV851",
-        "flight_no": "K6851",
-        "route_iata_full": "HAN-PNH",
-        "last_updated": "2024-11-26T13:30:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV852",
-        "flight_no": "K6852",
-        "route_iata_full": "SAI-HAN",
-        "last_updated": "2024-11-27T11:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "HAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV853",
-        "flight_no": "K6853",
-        "route_iata_full": "HAN-SAI",
-        "last_updated": "2024-11-27T11:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "SAI"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV894",
-        "flight_no": "K6894",
-        "route_iata_full": "PNH-CGO",
-        "last_updated": "2024-12-03T18:13:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CGO"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV895",
-        "flight_no": "K6895",
-        "route_iata_full": "CGO-PNH",
-        "last_updated": "2024-12-03T18:13:00Z",
-        "legs": [
-            {
-                "dep_iata": "CGO",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV896",
-        "flight_no": "K6896",
-        "route_iata_full": "PNH-NNG",
-        "last_updated": "2024-12-01T18:40:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "NNG"
-            }
-        ]
-    },
-    {
-        "callsign": "KHV897",
-        "flight_no": "K6897",
-        "route_iata_full": "NNG-PNH",
-        "last_updated": "2024-12-01T18:40:00Z",
-        "legs": [
-            {
-                "dep_iata": "NNG",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME502",
-        "flight_no": "KR502",
-        "route_iata_full": "MFM-PNH",
-        "last_updated": "2024-12-20T15:48:00Z",
-        "legs": [
-            {
-                "dep_iata": "MFM",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME503",
-        "flight_no": "KR503",
-        "route_iata_full": "PNH-MFM",
-        "last_updated": "2024-12-03T18:09:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "MFM"
-            }
-        ]
-    },
-    {
-        "callsign": "KME504",
-        "flight_no": "KR504",
-        "route_iata_full": "MFM-PNH",
-        "last_updated": "2024-12-03T18:09:00Z",
-        "legs": [
-            {
-                "dep_iata": "MFM",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME915",
-        "flight_no": "KR915",
-        "route_iata_full": "PNH-NTG",
-        "last_updated": "2024-12-03T17:50:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "NTG"
-            }
-        ]
-    },
-    {
-        "callsign": "KME916",
-        "flight_no": "KR916",
-        "route_iata_full": "NTG-PNH",
-        "last_updated": "2024-12-03T17:50:00Z",
-        "legs": [
-            {
-                "dep_iata": "NTG",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME929",
-        "flight_no": "KR929",
-        "route_iata_full": "PNH-SZX",
-        "last_updated": "2024-11-25T17:41:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "SZX"
-            }
-        ]
-    },
-    {
-        "callsign": "KME930",
-        "flight_no": "KR930",
-        "route_iata_full": "SZX-PNH",
-        "last_updated": "2024-11-25T17:41:00Z",
-        "legs": [
-            {
-                "dep_iata": "SZX",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME931",
-        "flight_no": "KR931",
-        "route_iata_full": "PNH-SWA",
-        "last_updated": "2025-01-15T15:34:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "SWA"
-            }
-        ]
-    },
-    {
-        "callsign": "KME937",
-        "flight_no": "KR937",
-        "route_iata_full": "PNH-CAN",
-        "last_updated": "2024-12-03T17:33:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KME938",
-        "flight_no": "KR938",
-        "route_iata_full": "CAN-PNH",
-        "last_updated": "2024-12-03T17:33:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME941",
-        "flight_no": "KR941",
-        "route_iata_full": "PNH-CSX",
-        "last_updated": "2024-12-20T15:52:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CSX"
-            }
-        ]
-    },
-    {
-        "callsign": "KME942",
-        "flight_no": "KR942",
-        "route_iata_full": "CSX-PNH",
-        "last_updated": "2025-01-15T15:35:00Z",
-        "legs": [
-            {
-                "dep_iata": "CSX",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME961",
-        "flight_no": "KR961",
-        "route_iata_full": "PNH-TFU",
-        "last_updated": "2024-11-27T08:16:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "TFU"
-            }
-        ]
-    },
-    {
-        "callsign": "KME962",
-        "flight_no": "KR962",
-        "route_iata_full": "TFU-PNH",
-        "last_updated": "2024-11-27T08:16:00Z",
-        "legs": [
-            {
-                "dep_iata": "TFU",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME963",
-        "flight_no": "KR963",
-        "route_iata_full": "PNH-CKG",
-        "last_updated": "2024-11-26T17:50:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "CKG"
-            }
-        ]
-    },
-    {
-        "callsign": "KME964",
-        "flight_no": "KR964",
-        "route_iata_full": "CKG-PNH",
-        "last_updated": "2024-11-26T17:50:00Z",
-        "legs": [
-            {
-                "dep_iata": "CKG",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KME9737",
-        "flight_no": "KR9737",
-        "route_iata_full": "PNH-HAK-CXR",
-        "last_updated": "2025-01-15T15:35:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "HAK"
-            },
-            {
-                "dep_iata": "HAK",
-                "arr_iata": "CXR"
-            }
-        ]
-    },
-    {
-        "callsign": "KME9755",
-        "flight_no": "KR9755",
-        "route_iata_full": "PNH-SYX-SIN",
-        "last_updated": "2024-12-03T18:12:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "SYX"
-            },
-            {
-                "dep_iata": "SYX",
-                "arr_iata": "SIN"
-            }
-        ]
-    },
-    {
-        "callsign": "KME9756",
-        "flight_no": "KR9756",
-        "route_iata_full": "SIN-SYX-PNH",
-        "last_updated": "2024-12-03T18:12:00Z",
-        "legs": [
-            {
-                "dep_iata": "SIN",
-                "arr_iata": "SYX"
-            },
-            {
-                "dep_iata": "SYX",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KMI201",
-        "flight_no": "8K201",
-        "route_iata_full": "BKK-SZX-KUL",
-        "last_updated": "2024-11-26T18:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "SZX"
-            },
-            {
-                "dep_iata": "SZX",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "KMI202",
-        "flight_no": "8K202",
-        "route_iata_full": "KUL-SZX-BKK",
-        "last_updated": "2024-11-26T18:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "SZX"
-            },
-            {
-                "dep_iata": "SZX",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KMI525",
-        "flight_no": "8K525",
-        "route_iata_full": "BKK-HAN-HKG",
-        "last_updated": "2024-11-28T08:35:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "HAN"
-            },
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "KMI526",
-        "flight_no": "8K526",
-        "route_iata_full": "HKG-BKK",
-        "last_updated": "2024-11-28T08:35:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "KQA886",
-        "flight_no": "KQ886",
-        "route_iata_full": "NBO-BKK-CAN",
-        "last_updated": "2024-12-09T15:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "NBO",
-                "arr_iata": "BKK"
-            },
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KQA887",
-        "flight_no": "KQ887",
-        "route_iata_full": "CAN-BKK-NBO",
-        "last_updated": "2024-12-09T15:25:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "BKK"
-            },
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "NBO"
-            }
-        ]
-    },
-    {
-        "callsign": "KTC103",
-        "flight_no": "KT103",
-        "route_iata_full": "SAI-PNH",
-        "last_updated": "2025-03-02T08:01:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KTC320",
-        "flight_no": "KT320",
-        "route_iata_full": "SAI-SIN",
-        "last_updated": "2025-03-02T08:01:00Z",
-        "legs": [
-            {
-                "dep_iata": "SAI",
-                "arr_iata": "SIN"
-            }
-        ]
-    },
-    {
-        "callsign": "KTC620",
-        "flight_no": "KT620",
-        "route_iata_full": "PNH-HAN",
-        "last_updated": "2025-03-02T08:01:00Z",
-        "legs": [
-            {
-                "dep_iata": "PNH",
-                "arr_iata": "HAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KTC621",
-        "flight_no": "KT621",
-        "route_iata_full": "HAN-PNH",
-        "last_updated": "2025-03-02T08:02:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "PNH"
-            }
-        ]
-    },
-    {
-        "callsign": "KXP220",
-        "flight_no": "WW220",
-        "route_iata_full": "KUL-HAN",
-        "last_updated": "2024-12-20T15:49:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HAN"
-            }
-        ]
-    },
-    {
-        "callsign": "KXP221",
-        "flight_no": "WW221",
-        "route_iata_full": "HAN-KUL",
-        "last_updated": "2025-01-15T15:36:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "KZR161",
-        "flight_no": "KC161",
-        "route_iata_full": "ALA-PQC",
-        "last_updated": "2024-12-08T03:48:00Z",
-        "legs": [
-            {
-                "dep_iata": "ALA",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "KZR162",
-        "flight_no": "KC162",
-        "route_iata_full": "PQC-ALA",
-        "last_updated": "2024-12-08T03:48:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "ALA"
-            }
-        ]
-    },
-    {
-        "callsign": "KZR174",
-        "flight_no": "KC174",
-        "route_iata_full": "PQC-NQZ",
-        "last_updated": "2024-12-20T15:49:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "NQZ"
-            }
-        ]
-    }
+  {
+    "callsign": "KAC417",
+    "flight_no": "KU417",
+    "route_iata_full": "KWI-MNL",
+    "last_updated": "2024-11-26T06:13:00Z",
+    "legs": [
+      {
+        "dep_iata": "KWI",
+        "arr_iata": "MNL"
+      }
+    ]
+  },
+  {
+    "callsign": "KAC418",
+    "flight_no": "KU418",
+    "route_iata_full": "MNL-KWI",
+    "last_updated": "2024-11-26T06:13:00Z",
+    "legs": [
+      {
+        "dep_iata": "MNL",
+        "arr_iata": "KWI"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL385",
+    "flight_no": "KE385",
+    "route_iata_full": "ICN-SIN",
+    "last_updated": "2025-01-15T15:32:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "SIN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL483",
+    "flight_no": "KE483",
+    "route_iata_full": "ICN-PQC",
+    "last_updated": "2025-01-15T15:32:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL484",
+    "flight_no": "KE484",
+    "route_iata_full": "PQC-ICN",
+    "last_updated": "2024-12-20T15:48:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL485",
+    "flight_no": "KE485",
+    "route_iata_full": "ICN-PQC",
+    "last_updated": "2024-11-30T13:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL486",
+    "flight_no": "KE486",
+    "route_iata_full": "PQC-ICN",
+    "last_updated": "2024-11-30T13:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL651",
+    "flight_no": "KE651",
+    "route_iata_full": "ICN-BKK",
+    "last_updated": "2024-11-26T13:59:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL652",
+    "flight_no": "KE652",
+    "route_iata_full": "BKK-ICN",
+    "last_updated": "2024-11-26T13:59:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL653",
+    "flight_no": "KE653",
+    "route_iata_full": "ICN-BKK",
+    "last_updated": "2024-12-09T15:14:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL654",
+    "flight_no": "KE654",
+    "route_iata_full": "BKK-ICN",
+    "last_updated": "2024-12-09T15:14:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL657",
+    "flight_no": "KE657",
+    "route_iata_full": "ICN-BKK",
+    "last_updated": "2024-11-28T15:17:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL658",
+    "flight_no": "KE658",
+    "route_iata_full": "BKK-ICN",
+    "last_updated": "2024-11-28T15:17:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL659",
+    "flight_no": "KE659",
+    "route_iata_full": "ICN-BKK",
+    "last_updated": "2024-11-27T07:22:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL660",
+    "flight_no": "KE660",
+    "route_iata_full": "BKK-ICN",
+    "last_updated": "2024-11-27T07:22:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL663",
+    "flight_no": "KE663",
+    "route_iata_full": "ICN-HKT",
+    "last_updated": "2024-11-25T18:29:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "HKT"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL664",
+    "flight_no": "KE664",
+    "route_iata_full": "HKT-ICN",
+    "last_updated": "2024-11-25T18:29:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKT",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL689",
+    "flight_no": "KE689",
+    "route_iata_full": "ICN-PNH",
+    "last_updated": "2024-12-09T14:55:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL690",
+    "flight_no": "KE690",
+    "route_iata_full": "PNH-ICN",
+    "last_updated": "2024-12-09T14:55:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL2001",
+    "flight_no": "KE2001",
+    "route_iata_full": "PUS-BKK",
+    "last_updated": "2024-12-01T16:12:00Z",
+    "legs": [
+      {
+        "dep_iata": "PUS",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL2002",
+    "flight_no": "KE2002",
+    "route_iata_full": "BKK-PUS",
+    "last_updated": "2024-12-01T16:12:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "PUS"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL9481",
+    "flight_no": "KE9481",
+    "route_iata_full": "ICN-PQC",
+    "last_updated": "2024-11-29T06:52:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL9482",
+    "flight_no": "KE9482",
+    "route_iata_full": "PQC-ICN",
+    "last_updated": "2024-11-29T06:52:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL9487",
+    "flight_no": "KE9487",
+    "route_iata_full": "ICN-PQC",
+    "last_updated": "2024-12-03T17:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL9488",
+    "flight_no": "KE9488",
+    "route_iata_full": "PQC-ICN",
+    "last_updated": "2024-12-03T17:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV131",
+    "flight_no": "K6131",
+    "route_iata_full": "SAI-KOS",
+    "last_updated": "2025-01-15T15:32:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "KOS"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV610",
+    "flight_no": "K6610",
+    "route_iata_full": "PNH-CAN",
+    "last_updated": "2024-12-01T18:42:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV611",
+    "flight_no": "K6611",
+    "route_iata_full": "CAN-PNH",
+    "last_updated": "2024-12-01T18:42:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV668",
+    "flight_no": "K6668",
+    "route_iata_full": "PNH-CAN",
+    "last_updated": "2024-11-27T08:17:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV669",
+    "flight_no": "K6669",
+    "route_iata_full": "CAN-PNH",
+    "last_updated": "2024-11-27T08:17:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV680",
+    "flight_no": "K6680",
+    "route_iata_full": "PNH-HKG",
+    "last_updated": "2024-11-29T11:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV681",
+    "flight_no": "K6681",
+    "route_iata_full": "HKG-PNH",
+    "last_updated": "2024-11-29T11:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV808",
+    "flight_no": "K6808",
+    "route_iata_full": "SAI-SGN",
+    "last_updated": "2025-03-02T08:00:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "SGN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV828",
+    "flight_no": "K6828",
+    "route_iata_full": "SAI-SGN",
+    "last_updated": "2025-01-15T15:33:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "SGN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV840",
+    "flight_no": "K6840",
+    "route_iata_full": "SAI-DAD",
+    "last_updated": "2024-11-29T07:47:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "DAD"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV841",
+    "flight_no": "K6841",
+    "route_iata_full": "DAD-SAI",
+    "last_updated": "2024-11-29T07:47:00Z",
+    "legs": [
+      {
+        "dep_iata": "DAD",
+        "arr_iata": "SAI"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV850",
+    "flight_no": "K6850",
+    "route_iata_full": "PNH-HAN",
+    "last_updated": "2024-11-26T13:30:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "HAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV851",
+    "flight_no": "K6851",
+    "route_iata_full": "HAN-PNH",
+    "last_updated": "2024-11-26T13:30:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV852",
+    "flight_no": "K6852",
+    "route_iata_full": "SAI-HAN",
+    "last_updated": "2024-11-27T11:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "HAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV853",
+    "flight_no": "K6853",
+    "route_iata_full": "HAN-SAI",
+    "last_updated": "2024-11-27T11:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "SAI"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV894",
+    "flight_no": "K6894",
+    "route_iata_full": "PNH-CGO",
+    "last_updated": "2024-12-03T18:13:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CGO"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV895",
+    "flight_no": "K6895",
+    "route_iata_full": "CGO-PNH",
+    "last_updated": "2024-12-03T18:13:00Z",
+    "legs": [
+      {
+        "dep_iata": "CGO",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV896",
+    "flight_no": "K6896",
+    "route_iata_full": "PNH-NNG",
+    "last_updated": "2024-12-01T18:40:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "NNG"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV897",
+    "flight_no": "K6897",
+    "route_iata_full": "NNG-PNH",
+    "last_updated": "2024-12-01T18:40:00Z",
+    "legs": [
+      {
+        "dep_iata": "NNG",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME502",
+    "flight_no": "KR502",
+    "route_iata_full": "MFM-PNH",
+    "last_updated": "2024-12-20T15:48:00Z",
+    "legs": [
+      {
+        "dep_iata": "MFM",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME503",
+    "flight_no": "KR503",
+    "route_iata_full": "PNH-MFM",
+    "last_updated": "2024-12-03T18:09:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "MFM"
+      }
+    ]
+  },
+  {
+    "callsign": "KME504",
+    "flight_no": "KR504",
+    "route_iata_full": "MFM-PNH",
+    "last_updated": "2024-12-03T18:09:00Z",
+    "legs": [
+      {
+        "dep_iata": "MFM",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME915",
+    "flight_no": "KR915",
+    "route_iata_full": "PNH-NTG",
+    "last_updated": "2024-12-03T17:50:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "NTG"
+      }
+    ]
+  },
+  {
+    "callsign": "KME916",
+    "flight_no": "KR916",
+    "route_iata_full": "NTG-PNH",
+    "last_updated": "2024-12-03T17:50:00Z",
+    "legs": [
+      {
+        "dep_iata": "NTG",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME929",
+    "flight_no": "KR929",
+    "route_iata_full": "PNH-SZX",
+    "last_updated": "2024-11-25T17:41:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "SZX"
+      }
+    ]
+  },
+  {
+    "callsign": "KME930",
+    "flight_no": "KR930",
+    "route_iata_full": "SZX-PNH",
+    "last_updated": "2024-11-25T17:41:00Z",
+    "legs": [
+      {
+        "dep_iata": "SZX",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME931",
+    "flight_no": "KR931",
+    "route_iata_full": "PNH-SWA",
+    "last_updated": "2025-01-15T15:34:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "SWA"
+      }
+    ]
+  },
+  {
+    "callsign": "KME937",
+    "flight_no": "KR937",
+    "route_iata_full": "PNH-CAN",
+    "last_updated": "2024-12-03T17:33:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KME938",
+    "flight_no": "KR938",
+    "route_iata_full": "CAN-PNH",
+    "last_updated": "2024-12-03T17:33:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME941",
+    "flight_no": "KR941",
+    "route_iata_full": "PNH-CSX",
+    "last_updated": "2024-12-20T15:52:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CSX"
+      }
+    ]
+  },
+  {
+    "callsign": "KME942",
+    "flight_no": "KR942",
+    "route_iata_full": "CSX-PNH",
+    "last_updated": "2025-01-15T15:35:00Z",
+    "legs": [
+      {
+        "dep_iata": "CSX",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME961",
+    "flight_no": "KR961",
+    "route_iata_full": "PNH-TFU",
+    "last_updated": "2024-11-27T08:16:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "TFU"
+      }
+    ]
+  },
+  {
+    "callsign": "KME962",
+    "flight_no": "KR962",
+    "route_iata_full": "TFU-PNH",
+    "last_updated": "2024-11-27T08:16:00Z",
+    "legs": [
+      {
+        "dep_iata": "TFU",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME963",
+    "flight_no": "KR963",
+    "route_iata_full": "PNH-CKG",
+    "last_updated": "2024-11-26T17:50:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "CKG"
+      }
+    ]
+  },
+  {
+    "callsign": "KME964",
+    "flight_no": "KR964",
+    "route_iata_full": "CKG-PNH",
+    "last_updated": "2024-11-26T17:50:00Z",
+    "legs": [
+      {
+        "dep_iata": "CKG",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KME9737",
+    "flight_no": "KR9737",
+    "route_iata_full": "PNH-HAK-CXR",
+    "last_updated": "2025-01-15T15:35:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "HAK"
+      },
+      {
+        "dep_iata": "HAK",
+        "arr_iata": "CXR"
+      }
+    ]
+  },
+  {
+    "callsign": "KME9755",
+    "flight_no": "KR9755",
+    "route_iata_full": "PNH-SYX-SIN",
+    "last_updated": "2024-12-03T18:12:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "SYX"
+      },
+      {
+        "dep_iata": "SYX",
+        "arr_iata": "SIN"
+      }
+    ]
+  },
+  {
+    "callsign": "KME9756",
+    "flight_no": "KR9756",
+    "route_iata_full": "SIN-SYX-PNH",
+    "last_updated": "2024-12-03T18:12:00Z",
+    "legs": [
+      {
+        "dep_iata": "SIN",
+        "arr_iata": "SYX"
+      },
+      {
+        "dep_iata": "SYX",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KMI201",
+    "flight_no": "8K201",
+    "route_iata_full": "BKK-SZX-KUL",
+    "last_updated": "2024-11-26T18:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "SZX"
+      },
+      {
+        "dep_iata": "SZX",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "KMI202",
+    "flight_no": "8K202",
+    "route_iata_full": "KUL-SZX-BKK",
+    "last_updated": "2024-11-26T18:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "SZX"
+      },
+      {
+        "dep_iata": "SZX",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KMI525",
+    "flight_no": "8K525",
+    "route_iata_full": "BKK-HAN-HKG",
+    "last_updated": "2024-11-28T08:35:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "HAN"
+      },
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "KMI526",
+    "flight_no": "8K526",
+    "route_iata_full": "HKG-BKK",
+    "last_updated": "2024-11-28T08:35:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "KQA886",
+    "flight_no": "KQ886",
+    "route_iata_full": "NBO-BKK-CAN",
+    "last_updated": "2024-12-09T15:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "NBO",
+        "arr_iata": "BKK"
+      },
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KQA887",
+    "flight_no": "KQ887",
+    "route_iata_full": "CAN-BKK-NBO",
+    "last_updated": "2024-12-09T15:25:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "BKK"
+      },
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "NBO"
+      }
+    ]
+  },
+  {
+    "callsign": "KTC103",
+    "flight_no": "KT103",
+    "route_iata_full": "SAI-PNH",
+    "last_updated": "2025-03-02T08:01:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KTC320",
+    "flight_no": "KT320",
+    "route_iata_full": "SAI-SIN",
+    "last_updated": "2025-03-02T08:01:00Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "SIN"
+      }
+    ]
+  },
+  {
+    "callsign": "KTC620",
+    "flight_no": "KT620",
+    "route_iata_full": "PNH-HAN",
+    "last_updated": "2025-03-02T08:01:00Z",
+    "legs": [
+      {
+        "dep_iata": "PNH",
+        "arr_iata": "HAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KTC621",
+    "flight_no": "KT621",
+    "route_iata_full": "HAN-PNH",
+    "last_updated": "2025-03-02T08:02:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "PNH"
+      }
+    ]
+  },
+  {
+    "callsign": "KXP220",
+    "flight_no": "WW220",
+    "route_iata_full": "KUL-HAN",
+    "last_updated": "2024-12-20T15:49:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HAN"
+      }
+    ]
+  },
+  {
+    "callsign": "KXP221",
+    "flight_no": "WW221",
+    "route_iata_full": "HAN-KUL",
+    "last_updated": "2025-01-15T15:36:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "KZR161",
+    "flight_no": "KC161",
+    "route_iata_full": "ALA-PQC",
+    "last_updated": "2024-12-08T03:48:00Z",
+    "legs": [
+      {
+        "dep_iata": "ALA",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "KZR162",
+    "flight_no": "KC162",
+    "route_iata_full": "PQC-ALA",
+    "last_updated": "2024-12-08T03:48:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "ALA"
+      }
+    ]
+  },
+  {
+    "callsign": "KZR174",
+    "flight_no": "KC174",
+    "route_iata_full": "PQC-NQZ",
+    "last_updated": "2024-12-20T15:49:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "NQZ"
+      }
+    ]
+  },
+  {
+    "callsign": "KAR3546",
+    "flight_no": "EO3546",
+    "route_iata_full": "CXR-SVO",
+    "last_updated": "2025-07-25T04:08:22Z",
+    "legs": [
+      {
+        "dep_iata": "CXR",
+        "arr_iata": "SVO"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL648",
+    "flight_no": "KE648",
+    "route_iata_full": "SIN-ICN",
+    "last_updated": "2025-07-25T04:13:29Z",
+    "legs": [
+      {
+        "dep_iata": "SIN",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV928",
+    "flight_no": "K6928",
+    "route_iata_full": "SAI-SZX",
+    "last_updated": "2025-07-25T04:33:48Z",
+    "legs": [
+      {
+        "dep_iata": "SAI",
+        "arr_iata": "SZX"
+      }
+    ]
+  },
+  {
+    "callsign": "KHV929",
+    "flight_no": "K6929",
+    "route_iata_full": "SZX-SAI",
+    "last_updated": "2025-07-25T04:34:06Z",
+    "legs": [
+      {
+        "dep_iata": "SZX",
+        "arr_iata": "SAI"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL644",
+    "flight_no": "KE644",
+    "route_iata_full": "SIN-ICN",
+    "last_updated": "2025-07-25T04:45:51Z",
+    "legs": [
+      {
+        "dep_iata": "SIN",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL672",
+    "flight_no": "KE672",
+    "route_iata_full": "KUL-ICN",
+    "last_updated": "2025-07-25T04:50:18Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL646",
+    "flight_no": "KE646",
+    "route_iata_full": "SIN-ICN",
+    "last_updated": "2025-07-25T04:58:51Z",
+    "legs": [
+      {
+        "dep_iata": "SIN",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL656",
+    "flight_no": "KE656",
+    "route_iata_full": "BKK-ICN",
+    "last_updated": "2025-07-25T05:00:31Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "KAL655",
+    "flight_no": "KE655",
+    "route_iata_full": "ICN-BKK",
+    "last_updated": "2025-07-25T05:00:49Z",
+    "legs": [
+      {
+        "dep_iata": "ICN",
+        "arr_iata": "BKK"
+      }
+    ]
+  }
 ]

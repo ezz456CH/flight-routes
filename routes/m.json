@@ -1,546 +1,570 @@
 [
-    {
-        "callsign": "MAS52",
-        "flight_no": "MH052",
-        "route_iata_full": "KUL-KIX",
-        "last_updated": "2024-12-20T15:54:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "KIX"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS066",
-        "flight_no": "MH066",
-        "route_iata_full": "KUL-ICN",
-        "last_updated": "2024-12-20T15:54:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "ICN"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS70",
-        "flight_no": "MH070",
-        "route_iata_full": "KUL-NRT",
-        "last_updated": "2024-12-20T15:54:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "NRT"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS072",
-        "flight_no": "MH072",
-        "route_iata_full": "KUL-HKG",
-        "last_updated": "2024-12-20T15:55:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS073",
-        "flight_no": "MH073",
-        "route_iata_full": "HKG-KUL",
-        "last_updated": "2024-12-20T15:55:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS078",
-        "flight_no": "MH078",
-        "route_iata_full": "KUL-HKG",
-        "last_updated": "2024-11-26T13:46:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS079",
-        "flight_no": "MH079",
-        "route_iata_full": "HKG-KUL",
-        "last_updated": "2024-11-26T13:46:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS88",
-        "flight_no": "MH088",
-        "route_iata_full": "KUL-NRT",
-        "last_updated": "2025-01-15T15:39:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "NRT"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS366",
-        "flight_no": "MH366",
-        "route_iata_full": "KUL-TPE",
-        "last_updated": "2024-12-08T14:29:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "TPE"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS367",
-        "flight_no": "MH367",
-        "route_iata_full": "TPE-KUL",
-        "last_updated": "2024-12-08T14:29:00Z",
-        "legs": [
-            {
-                "dep_iata": "TPE",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS376",
-        "flight_no": "MH376",
-        "route_iata_full": "KUL-CAN",
-        "last_updated": "2024-12-20T16:00:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS377",
-        "flight_no": "MH377",
-        "route_iata_full": "CAN-KUL",
-        "last_updated": "2025-01-15T15:39:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS386",
-        "flight_no": "MH386",
-        "route_iata_full": "KUL-PVG",
-        "last_updated": "2024-11-29T13:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "PVG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS387",
-        "flight_no": "MH387",
-        "route_iata_full": "PVG-KUL",
-        "last_updated": "2024-11-29T13:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "PVG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS388",
-        "flight_no": "MH388",
-        "route_iata_full": "KUL-PVG",
-        "last_updated": "2024-12-08T14:13:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "PVG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS390",
-        "flight_no": "MH390",
-        "route_iata_full": "KUL-XMN",
-        "last_updated": "2024-12-20T16:00:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "XMN"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS391",
-        "flight_no": "MH391",
-        "route_iata_full": "XMN-KUL",
-        "last_updated": "2025-01-15T15:39:00Z",
-        "legs": [
-            {
-                "dep_iata": "XMN",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6108",
-        "flight_no": "MH6108",
-        "route_iata_full": "KUL-LBU-HKG",
-        "last_updated": "2024-12-20T15:58:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "LBU"
-            },
-            {
-                "dep_iata": "LBU",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6112",
-        "flight_no": "MH6112",
-        "route_iata_full": "KUL-HKG",
-        "last_updated": "2024-11-29T11:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HKG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6113",
-        "flight_no": "MH6113",
-        "route_iata_full": "HKG-KUL",
-        "last_updated": "2024-11-29T11:28:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6162",
-        "flight_no": "MH6162",
-        "route_iata_full": "KUL-PVG",
-        "last_updated": "2024-11-26T08:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "PVG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6163",
-        "flight_no": "MH6163",
-        "route_iata_full": "PVG-KUL",
-        "last_updated": "2024-11-26T08:38:00Z",
-        "legs": [
-            {
-                "dep_iata": "PVG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6172",
-        "flight_no": "MH6172",
-        "route_iata_full": "KUL-PVG",
-        "last_updated": "2024-12-20T15:59:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "PVG"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6176",
-        "flight_no": "MH6176",
-        "route_iata_full": "KUL-CAN",
-        "last_updated": "2024-12-03T17:56:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6177",
-        "flight_no": "MH6177",
-        "route_iata_full": "CAN-KUL",
-        "last_updated": "2024-12-03T17:56:00Z",
-        "legs": [
-            {
-                "dep_iata": "CAN",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MAS6178",
-        "flight_no": "MH6178",
-        "route_iata_full": "KUL-CAN",
-        "last_updated": "2025-01-15T15:40:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "CAN"
-            }
-        ]
-    },
-    {
-        "callsign": "MGL711",
-        "flight_no": "OM711",
-        "route_iata_full": "UBN-SGN",
-        "last_updated": "2024-12-16T15:05:00Z",
-        "legs": [
-            {
-                "dep_iata": "UBN",
-                "arr_iata": "SGN"
-            }
-        ]
-    },
-    {
-        "callsign": "MGL712",
-        "flight_no": "OM712",
-        "route_iata_full": "SGN-UBN",
-        "last_updated": "2024-12-16T15:05:00Z",
-        "legs": [
-            {
-                "dep_iata": "SGN",
-                "arr_iata": "UBN"
-            }
-        ]
-    },
-    {
-        "callsign": "MGL713",
-        "flight_no": "OM713",
-        "route_iata_full": "UBN-SGN",
-        "last_updated": "2025-01-15T15:41:00Z",
-        "legs": [
-            {
-                "dep_iata": "UBN",
-                "arr_iata": "SGN"
-            }
-        ]
-    },
-    {
-        "callsign": "MGL714",
-        "flight_no": "OM714",
-        "route_iata_full": "SGN-UBN",
-        "last_updated": "2025-01-15T15:41:00Z",
-        "legs": [
-            {
-                "dep_iata": "SGN",
-                "arr_iata": "UBN"
-            }
-        ]
-    },
-    {
-        "callsign": "MNG8027",
-        "flight_no": "M08027",
-        "route_iata_full": "UBN-PQC",
-        "last_updated": "2025-01-15T15:42:00Z",
-        "legs": [
-            {
-                "dep_iata": "UBN",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "MNG8028",
-        "flight_no": "M08028",
-        "route_iata_full": "PQC-UBN",
-        "last_updated": "2025-01-15T15:42:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "UBN"
-            }
-        ]
-    },
-    {
-        "callsign": "MSR510",
-        "flight_no": "MS510",
-        "route_iata_full": "HKG-BKK",
-        "last_updated": "2024-12-16T15:09:00Z",
-        "legs": [
-            {
-                "dep_iata": "HKG",
-                "arr_iata": "BKK"
-            }
-        ]
-    },
-    {
-        "callsign": "MSR511",
-        "flight_no": "MS511",
-        "route_iata_full": "BKK-CAI",
-        "last_updated": "2024-12-16T15:09:00Z",
-        "legs": [
-            {
-                "dep_iata": "BKK",
-                "arr_iata": "CAI"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD571",
-        "flight_no": "OD571",
-        "route_iata_full": "KUL-HAN",
-        "last_updated": "2024-11-27T08:40:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HAN"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD572",
-        "flight_no": "OD572",
-        "route_iata_full": "HAN-KUL",
-        "last_updated": "2024-11-27T08:40:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAN",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD608",
-        "flight_no": "OD608",
-        "route_iata_full": "KUL-KWE",
-        "last_updated": "2024-11-26T11:44:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "KWE"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD609",
-        "flight_no": "OD609",
-        "route_iata_full": "KWE-KUL",
-        "last_updated": "2024-11-26T11:44:00Z",
-        "legs": [
-            {
-                "dep_iata": "KWE",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD614",
-        "flight_no": "OD614",
-        "route_iata_full": "KUL-HAK",
-        "last_updated": "2024-11-27T09:08:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "HAK"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD615",
-        "flight_no": "OD615",
-        "route_iata_full": "HAK-KUL",
-        "last_updated": "2024-11-27T09:08:00Z",
-        "legs": [
-            {
-                "dep_iata": "HAK",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD622",
-        "flight_no": "OD622",
-        "route_iata_full": "KUL-DYG",
-        "last_updated": "2024-11-27T09:56:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "DYG"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD623",
-        "flight_no": "OD623",
-        "route_iata_full": "DYG-KUL",
-        "last_updated": "2024-11-27T09:56:00Z",
-        "legs": [
-            {
-                "dep_iata": "DYG",
-                "arr_iata": "KUL"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD690",
-        "flight_no": "OD690",
-        "route_iata_full": "JHB-HAK",
-        "last_updated": "2024-12-20T16:02:00Z",
-        "legs": [
-            {
-                "dep_iata": "JHB",
-                "arr_iata": "HAK"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD692",
-        "flight_no": "OD692",
-        "route_iata_full": "KUL-CGO",
-        "last_updated": "2024-11-29T12:52:00Z",
-        "legs": [
-            {
-                "dep_iata": "KUL",
-                "arr_iata": "CGO"
-            }
-        ]
-    },
-    {
-        "callsign": "MXD693",
-        "flight_no": "OD693",
-        "route_iata_full": "CGO-KUL",
-        "last_updated": "2024-11-29T12:52:00Z",
-        "legs": [
-            {
-                "dep_iata": "CGO",
-                "arr_iata": "KUL"
-            }
-        ]
-    }
+  {
+    "callsign": "MAS52",
+    "flight_no": "MH052",
+    "route_iata_full": "KUL-KIX",
+    "last_updated": "2024-12-20T15:54:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "KIX"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS066",
+    "flight_no": "MH066",
+    "route_iata_full": "KUL-ICN",
+    "last_updated": "2024-12-20T15:54:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "ICN"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS70",
+    "flight_no": "MH070",
+    "route_iata_full": "KUL-NRT",
+    "last_updated": "2024-12-20T15:54:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "NRT"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS072",
+    "flight_no": "MH072",
+    "route_iata_full": "KUL-HKG",
+    "last_updated": "2024-12-20T15:55:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS073",
+    "flight_no": "MH073",
+    "route_iata_full": "HKG-KUL",
+    "last_updated": "2024-12-20T15:55:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS078",
+    "flight_no": "MH078",
+    "route_iata_full": "KUL-HKG",
+    "last_updated": "2024-11-26T13:46:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS079",
+    "flight_no": "MH079",
+    "route_iata_full": "HKG-KUL",
+    "last_updated": "2024-11-26T13:46:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS88",
+    "flight_no": "MH088",
+    "route_iata_full": "KUL-NRT",
+    "last_updated": "2025-01-15T15:39:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "NRT"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS366",
+    "flight_no": "MH366",
+    "route_iata_full": "KUL-TPE",
+    "last_updated": "2024-12-08T14:29:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "TPE"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS367",
+    "flight_no": "MH367",
+    "route_iata_full": "TPE-KUL",
+    "last_updated": "2024-12-08T14:29:00Z",
+    "legs": [
+      {
+        "dep_iata": "TPE",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS376",
+    "flight_no": "MH376",
+    "route_iata_full": "KUL-CAN",
+    "last_updated": "2024-12-20T16:00:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS377",
+    "flight_no": "MH377",
+    "route_iata_full": "CAN-KUL",
+    "last_updated": "2025-01-15T15:39:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS386",
+    "flight_no": "MH386",
+    "route_iata_full": "KUL-PVG",
+    "last_updated": "2024-11-29T13:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "PVG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS387",
+    "flight_no": "MH387",
+    "route_iata_full": "PVG-KUL",
+    "last_updated": "2024-11-29T13:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "PVG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS388",
+    "flight_no": "MH388",
+    "route_iata_full": "KUL-PVG",
+    "last_updated": "2024-12-08T14:13:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "PVG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS390",
+    "flight_no": "MH390",
+    "route_iata_full": "KUL-XMN",
+    "last_updated": "2024-12-20T16:00:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "XMN"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS391",
+    "flight_no": "MH391",
+    "route_iata_full": "XMN-KUL",
+    "last_updated": "2025-01-15T15:39:00Z",
+    "legs": [
+      {
+        "dep_iata": "XMN",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6108",
+    "flight_no": "MH6108",
+    "route_iata_full": "KUL-LBU-HKG",
+    "last_updated": "2024-12-20T15:58:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "LBU"
+      },
+      {
+        "dep_iata": "LBU",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6112",
+    "flight_no": "MH6112",
+    "route_iata_full": "KUL-HKG",
+    "last_updated": "2024-11-29T11:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HKG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6113",
+    "flight_no": "MH6113",
+    "route_iata_full": "HKG-KUL",
+    "last_updated": "2024-11-29T11:28:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6162",
+    "flight_no": "MH6162",
+    "route_iata_full": "KUL-PVG",
+    "last_updated": "2024-11-26T08:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "PVG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6163",
+    "flight_no": "MH6163",
+    "route_iata_full": "PVG-KUL",
+    "last_updated": "2024-11-26T08:38:00Z",
+    "legs": [
+      {
+        "dep_iata": "PVG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6172",
+    "flight_no": "MH6172",
+    "route_iata_full": "KUL-PVG",
+    "last_updated": "2024-12-20T15:59:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "PVG"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6176",
+    "flight_no": "MH6176",
+    "route_iata_full": "KUL-CAN",
+    "last_updated": "2024-12-03T17:56:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6177",
+    "flight_no": "MH6177",
+    "route_iata_full": "CAN-KUL",
+    "last_updated": "2024-12-03T17:56:00Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6178",
+    "flight_no": "MH6178",
+    "route_iata_full": "KUL-CAN",
+    "last_updated": "2025-01-15T15:40:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "CAN"
+      }
+    ]
+  },
+  {
+    "callsign": "MGL711",
+    "flight_no": "OM711",
+    "route_iata_full": "UBN-SGN",
+    "last_updated": "2024-12-16T15:05:00Z",
+    "legs": [
+      {
+        "dep_iata": "UBN",
+        "arr_iata": "SGN"
+      }
+    ]
+  },
+  {
+    "callsign": "MGL712",
+    "flight_no": "OM712",
+    "route_iata_full": "SGN-UBN",
+    "last_updated": "2024-12-16T15:05:00Z",
+    "legs": [
+      {
+        "dep_iata": "SGN",
+        "arr_iata": "UBN"
+      }
+    ]
+  },
+  {
+    "callsign": "MGL713",
+    "flight_no": "OM713",
+    "route_iata_full": "UBN-SGN",
+    "last_updated": "2025-01-15T15:41:00Z",
+    "legs": [
+      {
+        "dep_iata": "UBN",
+        "arr_iata": "SGN"
+      }
+    ]
+  },
+  {
+    "callsign": "MGL714",
+    "flight_no": "OM714",
+    "route_iata_full": "SGN-UBN",
+    "last_updated": "2025-01-15T15:41:00Z",
+    "legs": [
+      {
+        "dep_iata": "SGN",
+        "arr_iata": "UBN"
+      }
+    ]
+  },
+  {
+    "callsign": "MNG8027",
+    "flight_no": "M08027",
+    "route_iata_full": "UBN-PQC",
+    "last_updated": "2025-01-15T15:42:00Z",
+    "legs": [
+      {
+        "dep_iata": "UBN",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "MNG8028",
+    "flight_no": "M08028",
+    "route_iata_full": "PQC-UBN",
+    "last_updated": "2025-01-15T15:42:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "UBN"
+      }
+    ]
+  },
+  {
+    "callsign": "MSR510",
+    "flight_no": "MS510",
+    "route_iata_full": "HKG-BKK",
+    "last_updated": "2024-12-16T15:09:00Z",
+    "legs": [
+      {
+        "dep_iata": "HKG",
+        "arr_iata": "BKK"
+      }
+    ]
+  },
+  {
+    "callsign": "MSR511",
+    "flight_no": "MS511",
+    "route_iata_full": "BKK-CAI",
+    "last_updated": "2024-12-16T15:09:00Z",
+    "legs": [
+      {
+        "dep_iata": "BKK",
+        "arr_iata": "CAI"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD571",
+    "flight_no": "OD571",
+    "route_iata_full": "KUL-HAN",
+    "last_updated": "2024-11-27T08:40:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HAN"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD572",
+    "flight_no": "OD572",
+    "route_iata_full": "HAN-KUL",
+    "last_updated": "2024-11-27T08:40:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAN",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD608",
+    "flight_no": "OD608",
+    "route_iata_full": "KUL-KWE",
+    "last_updated": "2024-11-26T11:44:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "KWE"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD609",
+    "flight_no": "OD609",
+    "route_iata_full": "KWE-KUL",
+    "last_updated": "2024-11-26T11:44:00Z",
+    "legs": [
+      {
+        "dep_iata": "KWE",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD614",
+    "flight_no": "OD614",
+    "route_iata_full": "KUL-HAK",
+    "last_updated": "2024-11-27T09:08:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "HAK"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD615",
+    "flight_no": "OD615",
+    "route_iata_full": "HAK-KUL",
+    "last_updated": "2024-11-27T09:08:00Z",
+    "legs": [
+      {
+        "dep_iata": "HAK",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD622",
+    "flight_no": "OD622",
+    "route_iata_full": "KUL-DYG",
+    "last_updated": "2024-11-27T09:56:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "DYG"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD623",
+    "flight_no": "OD623",
+    "route_iata_full": "DYG-KUL",
+    "last_updated": "2024-11-27T09:56:00Z",
+    "legs": [
+      {
+        "dep_iata": "DYG",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD690",
+    "flight_no": "OD690",
+    "route_iata_full": "JHB-HAK",
+    "last_updated": "2024-12-20T16:02:00Z",
+    "legs": [
+      {
+        "dep_iata": "JHB",
+        "arr_iata": "HAK"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD692",
+    "flight_no": "OD692",
+    "route_iata_full": "KUL-CGO",
+    "last_updated": "2024-11-29T12:52:00Z",
+    "legs": [
+      {
+        "dep_iata": "KUL",
+        "arr_iata": "CGO"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD693",
+    "flight_no": "OD693",
+    "route_iata_full": "CGO-KUL",
+    "last_updated": "2024-11-29T12:52:00Z",
+    "legs": [
+      {
+        "dep_iata": "CGO",
+        "arr_iata": "KUL"
+      }
+    ]
+  },
+  {
+    "callsign": "MAS6179",
+    "flight_no": "NH6179",
+    "route_iata_full": "FRA-GVA",
+    "last_updated": "2025-07-25T04:01:45Z",
+    "legs": [
+      {
+        "dep_iata": "FRA",
+        "arr_iata": "GVA"
+      }
+    ]
+  },
+  {
+    "callsign": "MXD613",
+    "flight_no": "OD613",
+    "route_iata_full": "CAN-KUL",
+    "last_updated": "2025-07-25T04:02:12Z",
+    "legs": [
+      {
+        "dep_iata": "CAN",
+        "arr_iata": "KUL"
+      }
+    ]
+  }
 ]

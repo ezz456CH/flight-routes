@@ -1,34 +1,46 @@
 [
-    {
-        "callsign": "IAE861",
-        "flight_no": "IO861",
-        "route_iata_full": "IKT-KWL-PQC",
-        "last_updated": "2024-12-08T16:16:00Z",
-        "legs": [
-            {
-                "dep_iata": "IKT",
-                "arr_iata": "KWL"
-            },
-            {
-                "dep_iata": "KWL",
-                "arr_iata": "PQC"
-            }
-        ]
-    },
-    {
-        "callsign": "IAE862",
-        "flight_no": "IO862",
-        "route_iata_full": "PQC-KWL-IKT",
-        "last_updated": "2024-12-08T16:16:00Z",
-        "legs": [
-            {
-                "dep_iata": "PQC",
-                "arr_iata": "KWL"
-            },
-            {
-                "dep_iata": "KWL",
-                "arr_iata": "IKT"
-            }
-        ]
-    }
+  {
+    "callsign": "IAE861",
+    "flight_no": "IO861",
+    "route_iata_full": "IKT-KWL-PQC",
+    "last_updated": "2024-12-08T16:16:00Z",
+    "legs": [
+      {
+        "dep_iata": "IKT",
+        "arr_iata": "KWL"
+      },
+      {
+        "dep_iata": "KWL",
+        "arr_iata": "PQC"
+      }
+    ]
+  },
+  {
+    "callsign": "IAE862",
+    "flight_no": "IO862",
+    "route_iata_full": "PQC-KWL-IKT",
+    "last_updated": "2024-12-08T16:16:00Z",
+    "legs": [
+      {
+        "dep_iata": "PQC",
+        "arr_iata": "KWL"
+      },
+      {
+        "dep_iata": "KWL",
+        "arr_iata": "IKT"
+      }
+    ]
+  },
+  {
+    "callsign": "IGO1641",
+    "flight_no": "6E1641",
+    "route_iata_full": "CCU-SGN",
+    "last_updated": "2025-07-25T04:01:32Z",
+    "legs": [
+      {
+        "dep_iata": "CCU",
+        "arr_iata": "SGN"
+      }
+    ]
+  }
 ]
