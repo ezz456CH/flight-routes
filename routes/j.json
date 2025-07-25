@@ -1,562 +1,562 @@
 [
-  {
-    "callsign": "JAL31",
-    "flight_no": "JL031",
-    "route_iata_full": "HND-BKK",
-    "last_updated": "2024-11-26T08:07:00Z",
-    "legs": [
-      {
-        "dep_iata": "HND",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL32",
-    "flight_no": "JL032",
-    "route_iata_full": "BKK-HND",
-    "last_updated": "2024-11-26T08:12:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "HND"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL33",
-    "flight_no": "JL033",
-    "route_iata_full": "HND-BKK",
-    "last_updated": "2024-11-26T08:12:00Z",
-    "legs": [
-      {
-        "dep_iata": "HND",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL34",
-    "flight_no": "JL034",
-    "route_iata_full": "BKK-HND",
-    "last_updated": "2024-11-26T08:07:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "HND"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL39",
-    "flight_no": "JL039",
-    "route_iata_full": "HND-DEL",
-    "last_updated": "2025-03-02T07:58:00Z",
-    "legs": [
-      {
-        "dep_iata": "HND",
-        "arr_iata": "DEL"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL50",
-    "flight_no": "JL050",
-    "route_iata_full": "DOH-HND",
-    "last_updated": "2024-12-08T14:44:00Z",
-    "legs": [
-      {
-        "dep_iata": "DOH",
-        "arr_iata": "HND"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL59",
-    "flight_no": "JL059",
-    "route_iata_full": "HND-DOH",
-    "last_updated": "2024-12-08T14:44:00Z",
-    "legs": [
-      {
-        "dep_iata": "HND",
-        "arr_iata": "DOH"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL707",
-    "flight_no": "JL707",
-    "route_iata_full": "NRT-BKK",
-    "last_updated": "2024-11-28T08:38:00Z",
-    "legs": [
-      {
-        "dep_iata": "NRT",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL708",
-    "flight_no": "JL708",
-    "route_iata_full": "BKK-NRT",
-    "last_updated": "2024-11-28T08:38:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "NRT"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL727",
-    "flight_no": "JL727",
-    "route_iata_full": "KIX-BKK",
-    "last_updated": "2024-11-28T08:38:00Z",
-    "legs": [
-      {
-        "dep_iata": "KIX",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL728",
-    "flight_no": "JL728",
-    "route_iata_full": "BKK-KIX",
-    "last_updated": "2024-11-28T08:38:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "KIX"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL753",
-    "flight_no": "JL753",
-    "route_iata_full": "NRT-BLR",
-    "last_updated": "2024-12-09T15:16:00Z",
-    "legs": [
-      {
-        "dep_iata": "NRT",
-        "arr_iata": "BLR"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL754",
-    "flight_no": "JL754",
-    "route_iata_full": "BLR-NRT",
-    "last_updated": "2024-12-09T15:16:00Z",
-    "legs": [
-      {
-        "dep_iata": "BLR",
-        "arr_iata": "NRT"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL8155",
-    "flight_no": "JL8155",
-    "route_iata_full": "HND-SIN",
-    "last_updated": "2024-11-25T18:10:00Z",
-    "legs": [
-      {
-        "dep_iata": "HND",
-        "arr_iata": "SIN"
-      }
-    ]
-  },
-  {
-    "callsign": "JAL8156",
-    "flight_no": "JL8156",
-    "route_iata_full": "SIN-HND",
-    "last_updated": "2024-11-25T18:10:00Z",
-    "legs": [
-      {
-        "dep_iata": "SIN",
-        "arr_iata": "HND"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2203",
-    "flight_no": "7C2203",
-    "route_iata_full": "ICN-BKK",
-    "last_updated": "2024-12-09T15:54:00Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2204",
-    "flight_no": "7C2204",
-    "route_iata_full": "BKK-ICN",
-    "last_updated": "2024-12-09T15:54:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2205",
-    "flight_no": "7C2205",
-    "route_iata_full": "ICN-BKK",
-    "last_updated": "2024-12-08T15:05:00Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2206",
-    "flight_no": "7C2206",
-    "route_iata_full": "BKK-ICN",
-    "last_updated": "2024-12-08T15:05:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2215",
-    "flight_no": "7C2215",
-    "route_iata_full": "MWX-BKK",
-    "last_updated": "2024-12-20T15:46:00Z",
-    "legs": [
-      {
-        "dep_iata": "MWX",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2251",
-    "flight_no": "7C2251",
-    "route_iata_full": "PUS-BKK",
-    "last_updated": "2024-12-09T14:57:00Z",
-    "legs": [
-      {
-        "dep_iata": "PUS",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2252",
-    "flight_no": "7C2252",
-    "route_iata_full": "BKK-PUS",
-    "last_updated": "2024-12-09T14:57:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "PUS"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA4104",
-    "flight_no": "7C4104",
-    "route_iata_full": "PQC-ICN",
-    "last_updated": "2024-12-20T15:46:00Z",
-    "legs": [
-      {
-        "dep_iata": "PQC",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA001",
-    "flight_no": "LJ001",
-    "route_iata_full": "ICN-BKK",
-    "last_updated": "2024-11-26T14:50:00Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA002",
-    "flight_no": "LJ002",
-    "route_iata_full": "BKK-ICN",
-    "last_updated": "2024-11-26T14:50:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA005",
-    "flight_no": "LJ005",
-    "route_iata_full": "ICN-HKT",
-    "last_updated": "2024-11-25T18:23:00Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "HKT"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA006",
-    "flight_no": "LJ006",
-    "route_iata_full": "HKT-ICN",
-    "last_updated": "2024-11-25T18:23:00Z",
-    "legs": [
-      {
-        "dep_iata": "HKT",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA021",
-    "flight_no": "LJ021",
-    "route_iata_full": "PUS-BKK",
-    "last_updated": "2024-11-29T18:52:00Z",
-    "legs": [
-      {
-        "dep_iata": "PUS",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA022",
-    "flight_no": "LJ022",
-    "route_iata_full": "BKK-PUS",
-    "last_updated": "2024-11-29T18:52:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "PUS"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA091",
-    "flight_no": "LJ091",
-    "route_iata_full": "ICN-PQC",
-    "last_updated": "2024-12-01T16:10:00Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "PQC"
-      }
-    ]
-  },
-  {
-    "callsign": "JNA092",
-    "flight_no": "LJ092",
-    "route_iata_full": "PQC-ICN",
-    "last_updated": "2024-12-01T16:10:00Z",
-    "legs": [
-      {
-        "dep_iata": "PQC",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JSA817",
-    "flight_no": "3K817",
-    "route_iata_full": "SIN-HAK",
-    "last_updated": "2024-12-08T13:53:00Z",
-    "legs": [
-      {
-        "dep_iata": "SIN",
-        "arr_iata": "HAK"
-      }
-    ]
-  },
-  {
-    "callsign": "JSA818",
-    "flight_no": "3K818",
-    "route_iata_full": "HAK-SIN",
-    "last_updated": "2024-12-08T13:53:00Z",
-    "legs": [
-      {
-        "dep_iata": "HAK",
-        "arr_iata": "SIN"
-      }
-    ]
-  },
-  {
-    "callsign": "JST65",
-    "flight_no": "JQ065",
-    "route_iata_full": "BNE-BKK",
-    "last_updated": "2025-03-02T07:59:00Z",
-    "legs": [
-      {
-        "dep_iata": "BNE",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JYH1229",
-    "flight_no": "AQ1229",
-    "route_iata_full": "CGQ-LYG-BKK",
-    "last_updated": "2024-12-03T17:26:00Z",
-    "legs": [
-      {
-        "dep_iata": "CGQ",
-        "arr_iata": "LYG"
-      },
-      {
-        "dep_iata": "LYG",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JYH1230",
-    "flight_no": "AQ1230",
-    "route_iata_full": "BKK-LYG-CGQ",
-    "last_updated": "2024-12-03T17:26:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "LYG"
-      },
-      {
-        "dep_iata": "LYG",
-        "arr_iata": "CGQ"
-      }
-    ]
-  },
-  {
-    "callsign": "JYH1267",
-    "flight_no": "AQ1267",
-    "route_iata_full": "CAN-BKK",
-    "last_updated": "2024-11-26T17:37:00Z",
-    "legs": [
-      {
-        "dep_iata": "CAN",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JYH1268",
-    "flight_no": "AQ1268",
-    "route_iata_full": "BKK-CAN",
-    "last_updated": "2024-11-26T17:37:00Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "CAN"
-      }
-    ]
-  },
-  {
-    "callsign": "JYH1281",
-    "flight_no": "AQ1281",
-    "route_iata_full": "HAK-BKK",
-    "last_updated": "2025-01-15T15:30:00Z",
-    "legs": [
-      {
-        "dep_iata": "HAK",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JDL2978",
-    "flight_no": "JG2978",
-    "route_iata_full": "BKK-SZX",
-    "last_updated": "2025-07-25T04:20:16Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "SZX"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2315",
-    "flight_no": "7C2315",
-    "route_iata_full": "ICN-PQC",
-    "last_updated": "2025-07-25T04:27:54Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "PQC"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2551",
-    "flight_no": "7C2551",
-    "route_iata_full": "PUS-BKK",
-    "last_updated": "2025-07-25T04:43:42Z",
-    "legs": [
-      {
-        "dep_iata": "PUS",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2316",
-    "flight_no": "7C2316",
-    "route_iata_full": "PQC-ICN",
-    "last_updated": "2025-07-25T04:45:13Z",
-    "legs": [
-      {
-        "dep_iata": "PQC",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2503",
-    "flight_no": "7C2503",
-    "route_iata_full": "ICN-BKK",
-    "last_updated": "2025-07-25T04:46:15Z",
-    "legs": [
-      {
-        "dep_iata": "ICN",
-        "arr_iata": "BKK"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2504",
-    "flight_no": "7C2504",
-    "route_iata_full": "BKK-ICN",
-    "last_updated": "2025-07-25T04:46:41Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "ICN"
-      }
-    ]
-  },
-  {
-    "callsign": "JJA2552",
-    "flight_no": "7C2552",
-    "route_iata_full": "BKK-PUS",
-    "last_updated": "2025-07-25T04:58:24Z",
-    "legs": [
-      {
-        "dep_iata": "BKK",
-        "arr_iata": "PUS"
-      }
-    ]
-  }
+    {
+        "callsign": "JAL31",
+        "flight_no": "JL031",
+        "route_iata_full": "HND-BKK",
+        "last_updated": "2024-11-26T08:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL32",
+        "flight_no": "JL032",
+        "route_iata_full": "BKK-HND",
+        "last_updated": "2024-11-26T08:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL33",
+        "flight_no": "JL033",
+        "route_iata_full": "HND-BKK",
+        "last_updated": "2024-11-26T08:12:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL34",
+        "flight_no": "JL034",
+        "route_iata_full": "BKK-HND",
+        "last_updated": "2024-11-26T08:07:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL39",
+        "flight_no": "JL039",
+        "route_iata_full": "HND-DEL",
+        "last_updated": "2025-03-02T07:58:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "DEL"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL50",
+        "flight_no": "JL050",
+        "route_iata_full": "DOH-HND",
+        "last_updated": "2024-12-08T14:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "DOH",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL59",
+        "flight_no": "JL059",
+        "route_iata_full": "HND-DOH",
+        "last_updated": "2024-12-08T14:44:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "DOH"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL707",
+        "flight_no": "JL707",
+        "route_iata_full": "NRT-BKK",
+        "last_updated": "2024-11-28T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL708",
+        "flight_no": "JL708",
+        "route_iata_full": "BKK-NRT",
+        "last_updated": "2024-11-28T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL727",
+        "flight_no": "JL727",
+        "route_iata_full": "KIX-BKK",
+        "last_updated": "2024-11-28T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "KIX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL728",
+        "flight_no": "JL728",
+        "route_iata_full": "BKK-KIX",
+        "last_updated": "2024-11-28T08:38:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "KIX"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL753",
+        "flight_no": "JL753",
+        "route_iata_full": "NRT-BLR",
+        "last_updated": "2024-12-09T15:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "NRT",
+                "arr_iata": "BLR"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL754",
+        "flight_no": "JL754",
+        "route_iata_full": "BLR-NRT",
+        "last_updated": "2024-12-09T15:16:00Z",
+        "legs": [
+            {
+                "dep_iata": "BLR",
+                "arr_iata": "NRT"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL8155",
+        "flight_no": "JL8155",
+        "route_iata_full": "HND-SIN",
+        "last_updated": "2024-11-25T18:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "HND",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "JAL8156",
+        "flight_no": "JL8156",
+        "route_iata_full": "SIN-HND",
+        "last_updated": "2024-11-25T18:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HND"
+            }
+        ]
+    },
+    {
+        "callsign": "JDL2978",
+        "flight_no": "JG2978",
+        "route_iata_full": "BKK-SZX",
+        "last_updated": "2025-07-25T04:20:16Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "SZX"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2203",
+        "flight_no": "7C2203",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-09T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2204",
+        "flight_no": "7C2204",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-09T15:54:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2205",
+        "flight_no": "7C2205",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-12-08T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2206",
+        "flight_no": "7C2206",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-12-08T15:05:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2215",
+        "flight_no": "7C2215",
+        "route_iata_full": "MWX-BKK",
+        "last_updated": "2024-12-20T15:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "MWX",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2251",
+        "flight_no": "7C2251",
+        "route_iata_full": "PUS-BKK",
+        "last_updated": "2024-12-09T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "PUS",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2252",
+        "flight_no": "7C2252",
+        "route_iata_full": "BKK-PUS",
+        "last_updated": "2024-12-09T14:57:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PUS"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2315",
+        "flight_no": "7C2315",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2025-07-25T04:27:54Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2316",
+        "flight_no": "7C2316",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2025-07-25T04:45:13Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2503",
+        "flight_no": "7C2503",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2025-07-25T04:46:15Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2504",
+        "flight_no": "7C2504",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2025-07-25T04:46:41Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2551",
+        "flight_no": "7C2551",
+        "route_iata_full": "PUS-BKK",
+        "last_updated": "2025-07-25T04:43:42Z",
+        "legs": [
+            {
+                "dep_iata": "PUS",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA2552",
+        "flight_no": "7C2552",
+        "route_iata_full": "BKK-PUS",
+        "last_updated": "2025-07-25T04:58:24Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PUS"
+            }
+        ]
+    },
+    {
+        "callsign": "JJA4104",
+        "flight_no": "7C4104",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-20T15:46:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA001",
+        "flight_no": "LJ001",
+        "route_iata_full": "ICN-BKK",
+        "last_updated": "2024-11-26T14:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA002",
+        "flight_no": "LJ002",
+        "route_iata_full": "BKK-ICN",
+        "last_updated": "2024-11-26T14:50:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA005",
+        "flight_no": "LJ005",
+        "route_iata_full": "ICN-HKT",
+        "last_updated": "2024-11-25T18:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "HKT"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA006",
+        "flight_no": "LJ006",
+        "route_iata_full": "HKT-ICN",
+        "last_updated": "2024-11-25T18:23:00Z",
+        "legs": [
+            {
+                "dep_iata": "HKT",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA021",
+        "flight_no": "LJ021",
+        "route_iata_full": "PUS-BKK",
+        "last_updated": "2024-11-29T18:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "PUS",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA022",
+        "flight_no": "LJ022",
+        "route_iata_full": "BKK-PUS",
+        "last_updated": "2024-11-29T18:52:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "PUS"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA091",
+        "flight_no": "LJ091",
+        "route_iata_full": "ICN-PQC",
+        "last_updated": "2024-12-01T16:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "ICN",
+                "arr_iata": "PQC"
+            }
+        ]
+    },
+    {
+        "callsign": "JNA092",
+        "flight_no": "LJ092",
+        "route_iata_full": "PQC-ICN",
+        "last_updated": "2024-12-01T16:10:00Z",
+        "legs": [
+            {
+                "dep_iata": "PQC",
+                "arr_iata": "ICN"
+            }
+        ]
+    },
+    {
+        "callsign": "JSA817",
+        "flight_no": "3K817",
+        "route_iata_full": "SIN-HAK",
+        "last_updated": "2024-12-08T13:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "SIN",
+                "arr_iata": "HAK"
+            }
+        ]
+    },
+    {
+        "callsign": "JSA818",
+        "flight_no": "3K818",
+        "route_iata_full": "HAK-SIN",
+        "last_updated": "2024-12-08T13:53:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "SIN"
+            }
+        ]
+    },
+    {
+        "callsign": "JST65",
+        "flight_no": "JQ065",
+        "route_iata_full": "BNE-BKK",
+        "last_updated": "2025-03-02T07:59:00Z",
+        "legs": [
+            {
+                "dep_iata": "BNE",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1229",
+        "flight_no": "AQ1229",
+        "route_iata_full": "CGQ-LYG-BKK",
+        "last_updated": "2024-12-03T17:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "CGQ",
+                "arr_iata": "LYG"
+            },
+            {
+                "dep_iata": "LYG",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1230",
+        "flight_no": "AQ1230",
+        "route_iata_full": "BKK-LYG-CGQ",
+        "last_updated": "2024-12-03T17:26:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "LYG"
+            },
+            {
+                "dep_iata": "LYG",
+                "arr_iata": "CGQ"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1267",
+        "flight_no": "AQ1267",
+        "route_iata_full": "CAN-BKK",
+        "last_updated": "2024-11-26T17:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "CAN",
+                "arr_iata": "BKK"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1268",
+        "flight_no": "AQ1268",
+        "route_iata_full": "BKK-CAN",
+        "last_updated": "2024-11-26T17:37:00Z",
+        "legs": [
+            {
+                "dep_iata": "BKK",
+                "arr_iata": "CAN"
+            }
+        ]
+    },
+    {
+        "callsign": "JYH1281",
+        "flight_no": "AQ1281",
+        "route_iata_full": "HAK-BKK",
+        "last_updated": "2025-01-15T15:30:00Z",
+        "legs": [
+            {
+                "dep_iata": "HAK",
+                "arr_iata": "BKK"
+            }
+        ]
+    }
 ]

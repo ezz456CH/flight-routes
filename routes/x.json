@@ -1,14 +1,14 @@
 [
-  {
-    "callsign": "XAX504",
-    "flight_no": "D7504",
-    "route_iata_full": "KUL-ICN",
-    "last_updated": "2025-07-25T04:52:38Z",
-    "legs": [
-      {
-        "dep_iata": "KUL",
-        "arr_iata": "ICN"
-      }
-    ]
-  }
+    {
+        "callsign": "XAX504",
+        "flight_no": "D7504",
+        "route_iata_full": "KUL-ICN",
+        "last_updated": "2025-07-25T04:52:38Z",
+        "legs": [
+            {
+                "dep_iata": "KUL",
+                "arr_iata": "ICN"
+            }
+        ]
+    }
 ]
